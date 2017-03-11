@@ -1,5 +1,8 @@
 _repo: Anne-of-Green-Gables_45
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Montgomery, L. M. (Lucy Maud)
@@ -27,6 +30,8 @@ description: "Anne of Green Gables is a 1908 novel by Canadian author Lucy Maud 
   \ with productions annually in Canada since 1964 of the first musical production,\
   \ which has toured in Canada, the United States, Europe and Japan.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45#Anne-of-Green-Gables
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2008-06-27'
 gutenberg_type: Text
