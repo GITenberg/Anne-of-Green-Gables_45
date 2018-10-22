@@ -1,18 +1,21 @@
-The Project Gutenberg EBook of Anne Of Green Gables, by Lucy Maud Montgomery
+The Project Gutenberg EBook of Anne of Green Gables, by Lucy Maud Montgomery
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
 
 
-Title: Anne Of Green Gables
+
+Title: Anne of Green Gables
 
 Author: Lucy Maud Montgomery
 
-Posting Date: June 25, 2008 [EBook #45]
-Release Date: 1992
-[Last updated: June 9, 2012]
+
+Release Date: 1992 [EBook #45]
+Last Updated: May 14, 2016
 
 Language: English
 
@@ -23,15 +26,16 @@ Character set encoding: ASCII
 
 
 
-Produced by Charles Keller
+Produced by David Widger and Charles Keller
 
 
 
 
 
-                  ANNE OF GREEN GABLES
 
-                  By Lucy Maud Montgomery
+ANNE OF GREEN GABLES
+
+By Lucy Maud Montgomery
 
 
 
@@ -87,7 +91,7 @@ ANNE OF GREEN GABLES
 CHAPTER I. Mrs. Rachel Lynde is Surprised
 
 
-Mrs. Rachel Lynde lived just where the Avonlea main road dipped down
+|MRS. Rachel Lynde lived just where the Avonlea main road dipped down
 into a little hollow, fringed with alders and ladies' eardrops and
 traversed by a brook that had its source away back in the woods of the
 old Cuthbert place; it was reputed to be an intricate, headlong brook
@@ -150,7 +154,7 @@ enjoyment was spoiled.
 
 "I'll just step over to Green Gables after tea and find out from Marilla
 where he's gone and why," the worthy woman finally concluded. "He
-doesn't generally go to town this time of year and he NEVER visits; if
+doesn't generally go to town this time of year and he _never_ visits; if
 he'd run out of turnip seed he wouldn't dress up and take the buggy to
 go for more; he wasn't driving fast enough to be going for a doctor.
 Yet something must have happened since last night to start him off. I'm
@@ -168,9 +172,9 @@ when he founded his homestead. Green Gables was built at the furthest
 edge of his cleared land and there it was to this day, barely visible
 from the main road along which all the other Avonlea houses were so
 sociably situated. Mrs. Rachel Lynde did not call living in such a place
-LIVING at all.
+_living_ at all.
 
-"It's just STAYING, that's what," she said as she stepped along the
+"It's just _staying_, that's what," she said as she stepped along the
 deep-rutted, grassy lane bordered with wild rose bushes. "It's no wonder
 Matthew and Marilla are both a little odd, living away back here by
 themselves. Trees aren't much company, though dear knows if they were
@@ -184,7 +188,7 @@ side with great patriarchal willows and the other with prim Lombardies.
 Not a stray stick nor stone was to be seen, for Mrs. Rachel would have
 seen it if there had been. Privately she was of the opinion that Marilla
 Cuthbert swept that yard over as often as she swept her house. One could
-have eaten a meal off the ground without overbrimming the proverbial
+have eaten a meal off the ground without over-brimming the proverbial
 peck of dirt.
 
 Mrs. Rachel rapped smartly at the kitchen door and stepped in
@@ -225,7 +229,7 @@ was; but there was a saving something about her mouth which, if it had
 been ever so slightly developed, might have been considered indicative
 of a sense of humor.
 
-"We're all pretty well," said Mrs. Rachel. "I was kind of afraid YOU
+"We're all pretty well," said Mrs. Rachel. "I was kind of afraid _you_
 weren't, though, when I saw Matthew starting off today. I thought maybe
 he was going to the doctor's."
 
@@ -300,7 +304,7 @@ and you don't know a single thing about him nor what his disposition is
 like nor what sort of parents he had nor how he's likely to turn out.
 Why, it was only last week I read in the paper how a man and his wife up
 west of the Island took a boy out of an orphan asylum and he set fire to
-the house at night--set it ON PURPOSE, Marilla--and nearly burnt them to
+the house at night--set it _on purpose_, Marilla--and nearly burnt them to
 a crisp in their beds. And I know another case where an adopted boy used
 to suck the eggs--they couldn't break him of it. If you had asked my
 advice in the matter--which you didn't do, Marilla--I'd have said for
@@ -329,8 +333,8 @@ in that instance."
 "Well, we're not getting a girl," said Marilla, as if poisoning wells
 were a purely feminine accomplishment and not to be dreaded in the case
 of a boy. "I'd never dream of taking a girl to bring up. I wonder at
-Mrs. Alexander Spencer for doing it. But there, SHE wouldn't shrink from
-adopting a whole orphan asylum if she took it into her head."
+Mrs. Alexander Spencer for doing it. But there, _she_ wouldn't shrink
+from adopting a whole orphan asylum if she took it into her head."
 
 Mrs. Rachel would have liked to stay until Matthew came home with his
 imported orphan. But reflecting that it would be a good two hours at
@@ -349,7 +353,7 @@ expect him to be wiser and steadier that his own grandfather, if so be's
 he ever had a grandfather, which is doubtful. It seems uncanny to think
 of a child at Green Gables somehow; there's never been one there, for
 Matthew and Marilla were grown up when the new house was built--if they
-ever WERE children, which is hard to believe when one looks at them.
+ever _were_ children, which is hard to believe when one looks at them.
 I wouldn't be in that orphan's shoes for anything. My, but I pity him,
 that's what."
 
@@ -364,7 +368,7 @@ still deeper and more profound.
 CHAPTER II. Matthew Cuthbert is surprised
 
 
-Matthew Cuthbert and the sorrel mare jogged comfortably over the eight
+|MATTHEW Cuthbert and the sorrel mare jogged comfortably over the eight
 miles to Bright River. It was a pretty road, running along between
 snug farmsteads, with now and again a bit of balsamy fir wood to drive
 through or a hollow where wild plums hung out their filmy bloom. The air
@@ -393,7 +397,7 @@ he was too early, so he tied his horse in the yard of the small Bright
 River hotel and went over to the station house. The long platform was
 almost deserted; the only living creature in sight being a girl who was
 sitting on a pile of shingles at the extreme end. Matthew, barely noting
-that it WAS a girl, sidled past her as quickly as possible without
+that it _was_ a girl, sidled past her as quickly as possible without
 looking at her. Had he looked he could hardly have failed to notice the
 tense rigidity and expectation of her attitude and expression. She was
 sitting there waiting for something or somebody and, since sitting and
@@ -503,7 +507,7 @@ them--to imagine that perhaps the girl who sat next to you was really
 the daughter of a belted earl, who had been stolen away from her parents
 in her infancy by a cruel nurse who died before she could confess. I
 used to lie awake at nights and imagine things like that, because
-I didn't have time in the day. I guess that's why I'm so thin--I AM
+I didn't have time in the day. I guess that's why I'm so thin--I _am_
 dreadful thin, ain't I? There isn't a pick on my bones. I do love to
 imagine I'm nice and plump, with dimples in my elbows."
 
@@ -538,7 +542,7 @@ wincey to the asylum. Some people said it was because he couldn't sell
 it, but I'd rather believe that it was out of the kindness of his heart,
 wouldn't you? When we got on the train I felt as if everybody must be
 looking at me and pitying me. But I just went to work and imagined that
-I had on the most beautiful pale blue silk dress--because when you ARE
+I had on the most beautiful pale blue silk dress--because when you _are_
 imagining you might as well imagine something worth while--and a big
 hat all flowers and nodding plumes, and a gold watch, and kid gloves and
 boots. I felt cheered up right away and I enjoyed my trip to the Island
@@ -559,7 +563,7 @@ Charlottetown and the red roads began to flash past I asked Mrs. Spencer
 what made them red and she said she didn't know and for pity's sake not
 to ask her any more questions. She said I must have asked her a thousand
 already. I suppose I had, too, but how you going to find out about
-things if you don't ask questions? And what DOES make the roads red?"
+things if you don't ask questions? And what _does_ make the roads red?"
 
 "Well now, I dunno," said Matthew.
 
@@ -569,7 +573,7 @@ me feel glad to be alive--it's such an interesting world. It wouldn't be
 half so interesting if we know all about everything, would it? There'd
 be no scope for imagination then, would there? But am I talking too
 much? People are always telling me I do. Would you rather I didn't
-talk? If you say so I'll stop. I can STOP when I make up my mind to it,
+talk? If you say so I'll stop. I can _stop_ when I make up my mind to it,
 although it's difficult."
 
 Matthew, much to his own surprise, was enjoying himself. Like most quiet
@@ -604,8 +608,8 @@ there weren't any at all about the asylum, only a few poor weeny-teeny
 things out in front with little whitewashed cagey things about them.
 They just looked like orphans themselves, those trees did. It used to
 make me want to cry to look at them. I used to say to them, 'Oh, you
-POOR little things! If you were out in a great big woods with other
-trees all around you and little mosses and Junebells growing over your
+_poor_ little things! If you were out in a great big woods with other
+trees all around you and little mosses and June bells growing over your
 roots and a brook not far away and birds singing in you branches, you
 could grow, couldn't you? But you can't where you are. I know just
 exactly how you feel, little trees.' I felt sorry to leave them behind
@@ -635,13 +639,13 @@ her very toes and to exhale forth all the sorrows of the ages.
 perfectly happy. Nobody could who has red hair. I don't mind the other
 things so much--the freckles and the green eyes and my skinniness. I
 can imagine them away. I can imagine that I have a beautiful rose-leaf
-complexion and lovely starry violet eyes. But I CANNOT imagine that red
-hair away. I do my best. I think to myself, 'Now my hair is a glorious
-black, black as the raven's wing.' But all the time I KNOW it is just
-plain red and it breaks my heart. It will be my lifelong sorrow. I read
-of a girl once in a novel who had a lifelong sorrow but it wasn't red
-hair. Her hair was pure gold rippling back from her alabaster brow. What
-is an alabaster brow? I never could find out. Can you tell me?"
+complexion and lovely starry violet eyes. But I _cannot_ imagine that
+red hair away. I do my best. I think to myself, 'Now my hair is a
+glorious black, black as the raven's wing.' But all the time I _know_ it
+is just plain red and it breaks my heart. It will be my lifelong sorrow.
+I read of a girl once in a novel who had a lifelong sorrow but it wasn't
+red hair. Her hair was pure gold rippling back from her alabaster brow.
+What is an alabaster brow? I never could find out. Can you tell me?"
 
 "Well now, I'm afraid I can't," said Matthew, who was getting a little
 dizzy. He felt as he had once felt in his rash youth when another boy
@@ -701,7 +705,7 @@ white place--what was it?"
 "Well now, you must mean the Avenue," said Matthew after a few moments'
 profound reflection. "It is a kind of pretty place."
 
-"Pretty? Oh, PRETTY doesn't seem the right word to use. Nor beautiful,
+"Pretty? Oh, _pretty_ doesn't seem the right word to use. Nor beautiful,
 either. They don't go far enough. Oh, it was wonderful--wonderful.
 It's the first thing I ever saw that couldn't be improved upon by
 imagination. It just satisfies me here"--she put one hand on her
@@ -782,8 +786,8 @@ then. Oh, here we are at the bridge. I'm going to shut my eyes tight.
 I'm always afraid going over bridges. I can't help imagining that
 perhaps just as we get to the middle, they'll crumple up like a
 jack-knife and nip us. So I shut my eyes. But I always have to open them
-for all when I think we're getting near the middle. Because, you see,
-if the bridge DID crumple up I'd want to SEE it crumple. What a jolly
+for all when I think we're getting near the middle. Because, you see, if
+the bridge _did_ crumple up I'd want to _see_ it crumple. What a jolly
 rumble it makes! I always like the rumble part of it. Isn't it splendid
 there are so many things to like in this world? There we're over. Now
 I'll look back. Good night, dear Lake of Shining Waters. I always say
@@ -826,7 +830,7 @@ Every little while a horrible sickening feeling would come over me and
 I'd be so afraid it was all a dream. Then I'd pinch myself to see if it
 was real--until suddenly I remembered that even supposing it was only
 a dream I'd better go on dreaming as long as I could; so I stopped
-pinching. But it IS real and we're nearly home."
+pinching. But it _is_ real and we're nearly home."
 
 With a sigh of rapture she relapsed into silence. Matthew stirred
 uneasily. He felt glad that it would be Marilla and not he who would
@@ -858,22 +862,22 @@ goods," she followed him into the house.
 CHAPTER III. Marilla Cuthbert is Surprised
 
 
-Marilla came briskly forward as Matthew opened the door. But when her
-eyes fell of the odd little figure in the stiff, ugly dress, with the
+|MARILLA came briskly forward as Matthew opened the door. But when her
+eyes fell on the odd little figure in the stiff, ugly dress, with the
 long braids of red hair and the eager, luminous eyes, she stopped short
 in amazement.
 
 "Matthew Cuthbert, who's that?" she ejaculated. "Where is the boy?"
 
-"There wasn't any boy," said Matthew wretchedly. "There was only HER."
+"There wasn't any boy," said Matthew wretchedly. "There was only _her_."
 
 He nodded at the child, remembering that he had never even asked her
 name.
 
-"No boy! But there MUST have been a boy," insisted Marilla. "We sent
+"No boy! But there _must_ have been a boy," insisted Marilla. "We sent
 word to Mrs. Spencer to bring a boy."
 
-"Well, she didn't. She brought HER. I asked the station-master. And I
+"Well, she didn't. She brought _her_. I asked the station-master. And I
 had to bring her home. She couldn't be left there, no matter where the
 mistake had come in."
 
@@ -897,11 +901,11 @@ stepped lamely into the breach.
 
 "Well, well, there's no need to cry so about it."
 
-"Yes, there IS need!" The child raised her head quickly, revealing a
-tear-stained face and trembling lips. "YOU would cry, too, if you were
+"Yes, there _is_ need!" The child raised her head quickly, revealing a
+tear-stained face and trembling lips. "_You_ would cry, too, if you were
 an orphan and had come to a place you thought was going to be home and
 found that they didn't want you because you weren't a boy. Oh, this is
-the most TRAGICAL thing that ever happened to me!"
+the most _tragical_ thing that ever happened to me!"
 
 Something like a reluctant smile, rather rusty from long disuse,
 mellowed Marilla's grim expression.
@@ -914,7 +918,7 @@ The child hesitated for a moment.
 
 "Will you please call me Cordelia?" she said eagerly.
 
-"CALL you Cordelia? Is that your name?"
+"_Call_ you Cordelia? Is that your name?"
 
 "No-o-o, it's not exactly my name, but I would love to be called
 Cordelia. It's such a perfectly elegant name."
@@ -939,10 +943,10 @@ please call me Anne spelled with an E."
 "What difference does it make how it's spelled?" asked Marilla with
 another rusty smile as she picked up the teapot.
 
-"Oh, it makes SUCH a difference. It LOOKS so much nicer. When you hear a
-name pronounced can't you always see it in your mind, just as if it was
-printed out? I can; and A-n-n looks dreadful, but A-n-n-e looks so much
-more distinguished. If you'll only call me Anne spelled with an E I
+"Oh, it makes _such_ a difference. It _looks_ so much nicer. When you hear
+a name pronounced can't you always see it in your mind, just as if it
+was printed out? I can; and A-n-n looks dreadful, but A-n-n-e looks so
+much more distinguished. If you'll only call me Anne spelled with an E I
 shall try to reconcile myself to not being called Cordelia."
 
 "Very well, then, Anne spelled with an E, can you tell us how this
@@ -950,9 +954,9 @@ mistake came to be made? We sent word to Mrs. Spencer to bring us a boy.
 Were there no boys at the asylum?"
 
 "Oh, yes, there was an abundance of them. But Mrs. Spencer said
-DISTINCTLY that you wanted a girl about eleven years old. And the matron
-said she thought I would do. You don't know how delighted I was. I
-couldn't sleep all last night for joy. Oh," she added reproachfully,
+_distinctly_ that you wanted a girl about eleven years old. And the
+matron said she thought I would do. You don't know how delighted I was.
+I couldn't sleep all last night for joy. Oh," she added reproachfully,
 turning to Matthew, "why didn't you tell me at the station that you
 didn't want me and leave me there? If I hadn't seen the White Way of
 Delight and the Lake of Shining Waters it wouldn't be so hard."
@@ -989,12 +993,12 @@ depths of despair?"
 "I've never been in the depths of despair, so I can't say," responded
 Marilla.
 
-"Weren't you? Well, did you ever try to IMAGINE you were in the depths
+"Weren't you? Well, did you ever try to _imagine_ you were in the depths
 of despair?"
 
 "No, I didn't."
 
-"Then I don't think you can understand what it's like. It's very
+"Then I don't think you can understand what it's like. It's a very
 uncomfortable feeling indeed. When you try to eat a lump comes right
 up in your throat and you can't swallow anything, not even if it was a
 chocolate caramel. I had one chocolate caramel once two years ago and it
@@ -1061,7 +1065,7 @@ yellow chair, and then, taking up the candle, went over to the bed.
 Anne's white face and big eyes appeared over the bedclothes with a
 startling suddenness.
 
-"How can you call it a GOOD night when you know it must be the very
+"How can you call it a _good_ night when you know it must be the very
 worst night I've ever had?" she said reproachfully.
 
 Then she dived down into invisibility again.
@@ -1081,7 +1085,7 @@ to be sent back to the asylum."
 
 "Yes, I suppose so," said Matthew reluctantly.
 
-"You SUPPOSE so! Don't you know it?"
+"You _suppose_ so! Don't you know it?"
 
 "Well now, she's a real nice little thing, Marilla. It's kind of a pity
 to send her back when she's so set on staying here."
@@ -1131,7 +1135,7 @@ lonely, heart-hungry, friendless child cried herself to sleep.
 CHAPTER IV. Morning at Green Gables
 
 
-It was broad daylight when Anne awoke and sat up in bed, staring
+|IT was broad daylight when Anne awoke and sat up in bed, staring
 confusedly at the window through which a flood of cheery sunshine was
 pouring and outside of which something white and feathery waved across
 glimpses of blue sky.
@@ -1194,7 +1198,7 @@ the good world outside.
 don't amount to much never--small and wormy."
 
 "Oh, I don't mean just the tree; of course it's lovely--yes, it's
-RADIANTLY lovely--it blooms as if it meant it--but I meant everything,
+_radiantly_ lovely--it blooms as if it meant it--but I meant everything,
 the garden and the orchard and the brook and the woods, the whole big
 dear world. Don't you feel as if you just loved the world on a morning
 like this? And I can hear the brook laughing all the way up here.
@@ -1203,7 +1207,7 @@ laughing. Even in winter-time I've heard them under the ice. I'm so glad
 there's a brook near Green Gables. Perhaps you think it doesn't make any
 difference to me when you're not going to keep me, but it does. I shall
 always like to remember that there is a brook at Green Gables even if
-I never see it again. If there wasn't a brook I'd be HAUNTED by the
+I never see it again. If there wasn't a brook I'd be _haunted_ by the
 uncomfortable feeling that there ought to be one. I'm not in the depths
 of despair this morning. I never can be in the morning. Isn't it a
 splendid thing that there are mornings? But I feel very sad. I've just
@@ -1269,7 +1273,7 @@ much experience at that. It's such a pity you haven't any here for me to
 look after."
 
 "I don't feel as if I wanted any more children to look after than I've
-got at present. YOU'RE problem enough in all conscience. What's to be
+got at present. _You're_ problem enough in all conscience. What's to be
 done with you I don't know. Matthew is a most ridiculous man."
 
 "I think he's lovely," said Anne reproachfully. "He is so very
@@ -1339,7 +1343,7 @@ me, too. She's cast it over Matthew. That look he gave me when he went
 out said everything he said or hinted last night over again. I wish he
 was like other men and would talk things out. A body could answer back
 then and argue him into reason. But what's to be done with a man who
-just LOOKS?"
+just _looks?_"
 
 Anne had relapsed into reverie, with her chin in her hands and her eyes
 on the sky, when Marilla returned from her cellar pilgrimage. There
@@ -1379,14 +1383,14 @@ the gate, looking wistfully after them.
 CHAPTER V. Anne's History
 
 
-"Do you know," said Anne confidentially, "I've made up my mind to enjoy
+|DO you know," said Anne confidentially, "I've made up my mind to enjoy
 this drive. It's been my experience that you can nearly always enjoy
 things if you make up your mind firmly that you will. Of course, you
-must make it up FIRMLY. I am not going to think about going back to the
-asylum while we're having our drive. I'm just going to think about
+must make it up _firmly_. I am not going to think about going back to
+the asylum while we're having our drive. I'm just going to think about
 the drive. Oh, look, there's one little early wild rose out! Isn't it
-lovely? Don't you think it must be glad to be a rose? Wouldn't it
-be nice if roses could talk? I'm sure they could tell us such lovely
+lovely? Don't you think it must be glad to be a rose? Wouldn't it be
+nice if roses could talk? I'm sure they could tell us such lovely
 things. And isn't pink the most bewitching color in the world? I love
 it, but I can't wear it. Redheaded people can't wear pink, not even in
 imagination. Did you ever know of anybody whose hair was red when she
@@ -1421,8 +1425,8 @@ sounds like music. How far is it to White Sands?"
 "It's five miles; and as you're evidently bent on talking you might as
 well talk to some purpose by telling me what you know about yourself."
 
-"Oh, what I KNOW about myself isn't really worth telling," said Anne
-eagerly. "If you'll only let me tell you what I IMAGINE about myself
+"Oh, what I _know_ about myself isn't really worth telling," said Anne
+eagerly. "If you'll only let me tell you what I _imagine_ about myself
 you'll think it ever so much more interesting."
 
 "No, I don't want any of your imaginings. Just you stick to bald facts.
@@ -1442,7 +1446,7 @@ and useful moral.
 
 "Well, I don't know." Anne looked thoughtful. "I read in a book once
 that a rose by any other name would smell as sweet, but I've never been
-able to believe it. I don't believe a rose WOULD be as nice if it was
+able to believe it. I don't believe a rose _would_ be as nice if it was
 called a thistle or a skunk cabbage. I suppose my father could have been
 a good man even if he had been called Jedediah; but I'm sure it would
 have been a cross. Well, my mother was a teacher in the High school,
@@ -1479,7 +1483,7 @@ lived with them until I was eight years old. I helped look after the
 Thomas children--there were four of them younger than me--and I can tell
 you they took a lot of looking after. Then Mr. Thomas was killed
 falling under a train and his mother offered to take Mrs. Thomas and the
-children, but she didn't want me. Mrs. Thomas was at HER wits' end, so
+children, but she didn't want me. Mrs. Thomas was at _her_ wits' end, so
 she said, what to do with me. Then Mrs. Hammond from up the river came
 down and said she'd take me, seeing I was handy with children, and
 I went up the river to live with her in a little clearing among the
@@ -1487,7 +1491,7 @@ stumps. It was a very lonesome place. I'm sure I could never have
 lived there if I hadn't had an imagination. Mr. Hammond worked a little
 sawmill up there, and Mrs. Hammond had eight children. She had twins
 three times. I like babies in moderation, but twins three times in
-succession is TOO MUCH. I told Mrs. Hammond so firmly, when the last
+succession is _too much_. I told Mrs. Hammond so firmly, when the last
 pair came. I used to get so dreadfully tired carrying them about.
 
 "I lived up river with Mrs. Hammond over two years, and then Mr. Hammond
@@ -1521,10 +1525,10 @@ Fourth--but the big girls used to lend me theirs to read."
 Marilla, looking at Anne out of the corner of her eye.
 
 "O-o-o-h," faltered Anne. Her sensitive little face suddenly flushed
-scarlet and embarrassment sat on her brow. "Oh, they MEANT to be--I know
+scarlet and embarrassment sat on her brow. "Oh, they _meant_ to be--I know
 they meant to be just as good and kind as possible. And when people
 mean to be good to you, you don't mind very much when they're not
-quite--always. They had a good deal to worry them, you know. It's very
+quite--always. They had a good deal to worry them, you know. It's  a very
 trying to have a drunken husband, you see; and it must be very trying to
 have twins three times in succession, don't you think? But I feel sure
 they meant to be good to me."
@@ -1580,7 +1584,7 @@ everything."
 CHAPTER VI. Marilla Makes Up Her Mind
 
 
-Get there they did, however, in due season. Mrs. Spencer lived in a big
+|GET there they did, however, in due season. Mrs. Spencer lived in a big
 yellow house at White Sands Cove, and she came to the door with surprise
 and welcome mingled on her benevolent face.
 
@@ -1786,7 +1790,7 @@ and goodness only knows what will come of it."
 CHAPTER VII. Anne Says Her Prayers
 
 
-When Marilla took Anne up to bed that night she said stiffly:
+|WHEN Marilla took Anne up to bed that night she said stiffly:
 
 "Now, Anne, I noticed last night that you threw your clothes all about
 the floor when you took them off. That is a very untidy habit, and I
@@ -1832,7 +1836,7 @@ prayers every night? I'm afraid you are a very bad little girl."
 
 "You'd find it easier to be bad than good if you had red hair," said
 Anne reproachfully. "People who haven't red hair don't know what trouble
-is. Mrs. Thomas told me that God made my hair red ON PURPOSE, and I've
+is. Mrs. Thomas told me that God made my hair red _on purpose_, and I've
 never cared about Him since. And anyhow I'd always be too tired at night
 to bother saying prayers. People who have to look after twins can't be
 expected to say their prayers. Now, do you honestly think they can?"
@@ -1856,7 +1860,7 @@ Anne knelt at Marilla's knee and looked up gravely.
 tell you what I'd do. I'd go out into a great big field all alone
 or into the deep, deep, woods, and I'd look up into the
 sky--up--up--up--into that lovely blue sky that looks as if there was no
-end to its blueness. And then I'd just FEEL a prayer. Well, I'm ready.
+end to its blueness. And then I'd just _feel_ a prayer. Well, I'm ready.
 What am I to say?"
 
 Marilla felt more embarrassed than ever. She had intended to teach Anne
@@ -1865,7 +1869,7 @@ I have told you, the glimmerings of a sense of humor--which is simply
 another name for a sense of fitness of things; and it suddenly occurred
 to her that that simple little prayer, sacred to white-robed childhood
 lisping at motherly knees, was entirely unsuited to this freckled witch
-of a girl who knew and cared nothing bout God's love, since she had
+of a girl who knew and cared nothing about God's love, since she had
 never had it translated to her through the medium of human love.
 
 "You're old enough to pray for yourself, Anne," she said finally. "Just
@@ -1931,7 +1935,7 @@ has come at last and I suppose I'll just have to make the best of it."
 CHAPTER VIII. Anne's Bringing-up Is Begun
 
 
-For reasons best known to herself, Marilla did not tell Anne that
+|FOR reasons best known to herself, Marilla did not tell Anne that
 she was to stay at Green Gables until the next afternoon. During the
 forenoon she kept the child busy with various tasks and watched over her
 with a keen eye while she did them. By noon she had concluded that Anne
@@ -1963,7 +1967,7 @@ you--that is, if you will try to be a good little girl and show yourself
 grateful. Why, child, whatever is the matter?"
 
 "I'm crying," said Anne in a tone of bewilderment. "I can't think why.
-I'm glad as glad can be. Oh, GLAD doesn't seem the right word at all. I
+I'm glad as glad can be. Oh, _glad_ doesn't seem the right word at all. I
 was glad about the White Way and the cherry blossoms--but this! Oh, it's
 something more than glad. I'm so happy. I'll try to be so good. It
 will be uphill work, I expect, for Mrs. Thomas often told me I was
@@ -2036,7 +2040,7 @@ Anne promptly departed for the sitting-room across the hall; she failed
 to return; after waiting ten minutes Marilla laid down her knitting
 and marched after her with a grim expression. She found Anne standing
 motionless before a picture hanging on the wall between the two windows,
-with her eyes astar with dreams. The white and green light strained
+with her eyes a-star with dreams. The white and green light strained
 through apple trees and clustering vines outside fell over the rapt
 little figure with a half-unearthly radiance.
 
@@ -2197,7 +2201,7 @@ left them on the tree in the first place."
 "I did feel a little that way, too," said Anne. "I kind of felt I
 shouldn't shorten their lovely lives by picking them--I wouldn't want
 to be picked if I were an apple blossom. But the temptation was
-IRRESISTIBLE. What do you do when you meet with an irresistible
+_irresistible_. What do you do when you meet with an irresistible
 temptation?"
 
 "Anne, did you hear me tell you to go to your room?"
@@ -2210,14 +2214,14 @@ upstairs. Now I'm going to imagine things into this room so that they'll
 always stay imagined. The floor is covered with a white velvet carpet
 with pink roses all over it and there are pink silk curtains at the
 windows. The walls are hung with gold and silver brocade tapestry. The
-furniture is mahogany. I never saw any mahogany, but it does sound SO
+furniture is mahogany. I never saw any mahogany, but it does sound _so_
 luxurious. This is a couch all heaped with gorgeous silken cushions,
 pink and blue and crimson and gold, and I am reclining gracefully on it.
 I can see my reflection in that splendid big mirror hanging on the wall.
 I am tall and regal, clad in a gown of trailing white lace, with a
 pearl cross on my breast and pearls in my hair. My hair is of midnight
 darkness and my skin is a clear ivory pallor. My name is the Lady
-Cordelia Fitzgerald. No, it isn't--I can't make THAT seem real."
+Cordelia Fitzgerald. No, it isn't--I can't make _that_ seem real."
 
 She danced up to the little looking-glass and peered into it. Her
 pointed freckled face and solemn gray eyes peered back at her.
@@ -2250,7 +2254,7 @@ on a sea of daydreams.
 CHAPTER IX. Mrs. Rachel Lynde Is Properly Horrified
 
 
-Anne had been a fortnight at Green Gables before Mrs. Lynde arrived to
+|ANNE had been a fortnight at Green Gables before Mrs. Lynde arrived to
 inspect her. Mrs. Rachel, to do her justice, was not to blame for this.
 A severe and unseasonable attack of grippe had confined that good lady
 to her house ever since the occasion of her last visit to Green Gables.
@@ -2364,7 +2368,7 @@ would you like to have such things said about you? How would you like
 to be told that you are fat and clumsy and probably hadn't a spark of
 imagination in you? I don't care if I do hurt your feelings by saying
 so! I hope I hurt them. You have hurt mine worse than they were ever
-hurt before even by Mrs. Thomas' intoxicated husband. And I'll NEVER
+hurt before even by Mrs. Thomas' intoxicated husband. And I'll _never_
 forgive you for it, never, never!"
 
 Stamp! Stamp!
@@ -2380,7 +2384,7 @@ tins on the porch wall outside rattled in sympathy, and fled through the
 hall and up the stairs like a whirlwind. A subdued slam above told that
 the door of the east gable had been shut with equal vehemence.
 
-"Well, I don't envy you your job bringing THAT up, Marilla," said Mrs.
+"Well, I don't envy you your job bringing _that_ up, Marilla," said Mrs.
 Rachel with unspeakable solemnity.
 
 Marilla opened her lips to say she knew not what of apology or
@@ -2396,7 +2400,7 @@ Rachel indignantly.
 "No," said Marilla slowly, "I'm not trying to excuse her. She's been
 very naughty and I'll have to give her a talking to about it. But we
 must make allowances for her. She's never been taught what is right. And
-you WERE too hard on her, Rachel."
+you _were_ too hard on her, Rachel."
 
 Marilla could not help tacking on that last sentence, although she was
 again surprised at herself for doing it. Mrs. Rachel got up with an air
@@ -2409,15 +2413,15 @@ vexed--don't worry yourself. I'm too sorry for you to leave any room for
 anger in my mind. You'll have your own troubles with that child. But
 if you'll take my advice--which I suppose you won't do, although I've
 brought up ten children and buried two--you'll do that 'talking to' you
-mention with a fair-sized birch switch. I should think THAT would be the
+mention with a fair-sized birch switch. I should think _that_ would be the
 most effective language for that kind of a child. Her temper matches her
 hair I guess. Well, good evening, Marilla. I hope you'll come down to
 see me often as usual. But you can't expect me to visit here again in a
 hurry, if I'm liable to be flown at and insulted in such a fashion. It's
-something new in MY experience."
+something new in _my_ experience."
 
 Whereat Mrs. Rachel swept out and away--if a fat woman who always
-waddled COULD be said to sweep away--and Marilla with a very solemn face
+waddled _could_ be said to sweep away--and Marilla with a very solemn face
 betook herself to the east gable.
 
 On the way upstairs she pondered uneasily as to what she ought to do.
@@ -2464,7 +2468,7 @@ hearing other people say it," wailed Anne. "You may know a thing is
 so, but you can't help hoping other people don't quite think it is. I
 suppose you think I have an awful temper, but I couldn't help it. When
 she said those things something just rose right up in me and choked me.
-I HAD to fly out at her."
+I _had_ to fly out at her."
 
 "Well, you made a fine exhibition of yourself I must say. Mrs. Lynde
 will have a nice story to tell about you everywhere--and she'll tell
@@ -2501,9 +2505,9 @@ room until you can tell me you're willing to do it."
 
 "I shall have to stay here forever then," said Anne mournfully, "because
 I can't tell Mrs. Lynde I'm sorry I said those things to her. How can
-I? I'm NOT sorry. I'm sorry I've vexed you; but I'm GLAD I told her just
+I? I'm _not_ sorry. I'm sorry I've vexed you; but I'm _glad_ I told her just
 what I did. It was a great satisfaction. I can't say I'm sorry when I'm
-not, can I? I can't even IMAGINE I'm sorry."
+not, can I? I can't even _imagine_ I'm sorry."
 
 "Perhaps your imagination will be in better working order by the
 morning," said Marilla, rising to depart. "You'll have the night to
@@ -2523,7 +2527,7 @@ amusement and she felt a most reprehensible desire to laugh.
 CHAPTER X. Anne's Apology
 
 
-Marilla said nothing to Matthew about the affair that evening; but when
+|MARILLA said nothing to Matthew about the affair that evening; but when
 Anne proved still refractory the next morning an explanation had to be
 made to account for her absence from the breakfast table. Marilla told
 Matthew the whole story, taking pains to impress him with a due sense of
@@ -2593,7 +2597,7 @@ I say, and have it over."
 smooth it over so to speak. That's what I was trying to get at."
 
 "I suppose I could do it to oblige you," said Anne thoughtfully. "It
-would be true enough to say I am sorry, because I AM sorry now. I wasn't
+would be true enough to say I am sorry, because I _am_ sorry now. I wasn't
 a bit sorry last night. I was mad clear through, and I stayed mad all
 night. I know I did because I woke up three times and I was just
 furious every time. But this morning it was over. I wasn't in a temper
@@ -2661,7 +2665,7 @@ you--and I've disgraced the dear friends, Matthew and Marilla, who have
 let me stay at Green Gables although I'm not a boy. I'm a dreadfully
 wicked and ungrateful girl, and I deserve to be punished and cast out
 by respectable people forever. It was very wicked of me to fly into a
-temper because you told me the truth. It WAS the truth; every word you
+temper because you told me the truth. It _was_ the truth; every word you
 said was true. My hair is red and I'm freckled and skinny and ugly.
 What I said to you was true, too, but I shouldn't have said it. Oh, Mrs.
 Lynde, please, please, forgive me. If you refuse it will be a lifelong
@@ -2738,7 +2742,7 @@ you'll try to control your temper now, Anne."
 
 "That wouldn't be so hard if people wouldn't twit me about my looks,"
 said Anne with a sigh. "I don't get cross about other things; but I'm
-SO tired of being twitted about my hair and it just makes me boil right
+_so_ tired of being twitted about my hair and it just makes me boil right
 over. Do you suppose my hair will really be a handsome auburn when I
 grow up?"
 
@@ -2800,7 +2804,7 @@ any more just now, Marilla."
 CHAPTER XI. Anne's Impressions of Sunday-School
 
 
-"Well, how do you like them?" said Marilla.
+|WELL, how do you like them?" said Marilla.
 
 Anne was standing in the gable room, looking solemnly at three new
 dresses spread out on the bed. One was of snuffy colored gingham which
@@ -2836,7 +2840,7 @@ school. I'll expect you to keep them neat and clean and not to tear
 them. I should think you'd be grateful to get most anything after those
 skimpy wincey things you've been wearing."
 
-"Oh, I AM grateful," protested Anne. "But I'd be ever so much
+"Oh, I _am_ grateful," protested Anne. "But I'd be ever so much
 gratefuller if--if you'd made just one of them with puffed sleeves.
 Puffed sleeves are so fashionable now. It would give me such a thrill,
 Marilla, just to wear a dress with puffed sleeves."
@@ -2972,7 +2976,7 @@ two lines in particular that just thrill me.
    In Midian's evil day.'
 
 "I don't know what 'squadrons' means nor 'Midian,' either, but it sounds
-SO tragical. I can hardly wait until next Sunday to recite it.
+_so_ tragical. I can hardly wait until next Sunday to recite it.
 I'll practice it all the week. After Sunday school I asked Miss
 Rogerson--because Mrs. Lynde was too far away--to show me your pew.
 I sat just as still as I could and the text was Revelations, third
@@ -2998,7 +3002,7 @@ neglected humanity.
 CHAPTER XII. A Solemn Vow and Promise
 
 
-It was not until the next Friday that Marilla heard the story of the
+|IT was not until the next Friday that Marilla heard the story of the
 flower-wreathed hat. She came home from Mrs. Lynde's and called Anne to
 account.
 
@@ -3053,7 +3057,7 @@ frightened. What if she shouldn't like me! It would be the most tragical
 disappointment of my life."
 
 "Now, don't get into a fluster. And I do wish you wouldn't use such long
-words. It sounds so funny in a little girl. I guess Diana'll like you
+words. It sounds so funny in a little girl. I guess Diana 'll like you
 well enough. It's her mother you've got to reckon with. If she doesn't
 like you it won't matter how much Diana does. If she has heard about
 your outburst to Mrs. Lynde and going to church with buttercups round
@@ -3061,7 +3065,7 @@ your hat I don't know what she'll think of you. You must be polite and
 well behaved, and don't make any of your startling speeches. For pity's
 sake, if the child isn't actually trembling!"
 
-Anne WAS trembling. Her face was pale and tense.
+Anne _was_ trembling. Her face was pale and tense.
 
 "Oh, Marilla, you'd be excited, too, if you were going to meet a little
 girl you hoped to be your bosom friend and whose mother mightn't like
@@ -3162,7 +3166,7 @@ Diana repeated the "oath" with a laugh fore and aft. Then she said:
 "You're a queer girl, Anne. I heard before that you were queer. But I
 believe I'm going to like you real well."
 
-When Marilla and Anne went home Diana went with them as for as the log
+When Marilla and Anne went home Diana went with them as far as the log
 bridge. The two little girls walked with their arms about each other.
 At the brook they parted with many promises to spend the next afternoon
 together.
@@ -3230,10 +3234,10 @@ I'm getting fond of her, but don't you rub it in, Matthew Cuthbert."
 CHAPTER XIII. The Delights of Anticipation
 
 
-"It's time Anne was in to do her sewing," said Marilla, glancing at the
+|IT'S time Anne was in to do her sewing," said Marilla, glancing at the
 clock and then out into the yellow August afternoon where everything
 drowsed in the heat. "She stayed playing with Diana more than half an
-hour more'n I gave her leave to; and now she's perched out there on
+hour more 'n I gave her leave to; and now she's perched out there on
 the woodpile talking to Matthew, nineteen to the dozen, when she knows
 perfectly well she ought to be at her work. And of course he's listening
 to her like a perfect ninny. I never saw such an infatuated man.
@@ -3248,8 +3252,8 @@ streaming behind her in a torrent of brightness.
 "Oh, Marilla," she exclaimed breathlessly, "there's going to be a
 Sunday-school picnic next week--in Mr. Harmon Andrews's field, right
 near the lake of Shining Waters. And Mrs. Superintendent Bell and Mrs.
-Rachel Lynde are going to make ice cream--think of it, Marilla--ICE
-CREAM! And, oh, Marilla, can I go to it?"
+Rachel Lynde are going to make ice cream--think of it, Marilla--_ice
+cream!_ And, oh, Marilla, can I go to it?"
 
 "Just look at the clock, if you please, Anne. What time did I tell you
 to come in?"
@@ -3301,7 +3305,7 @@ cooking and not stop in the middle of things to let your thoughts rove
 all over creation. Now, get out your patchwork and have your square done
 before teatime."
 
-"I do NOT like patchwork," said Anne dolefully, hunting out her
+"I do _not_ like patchwork," said Anne dolefully, hunting out her
 workbasket and sitting down before a little heap of red and white
 diamonds with a sigh. "I think some kinds of sewing would be nice; but
 there's no scope for imagination in patchwork. It's just one little seam
@@ -3318,7 +3322,7 @@ trees--the most romantic spot, Marilla. Diana and I have our playhouse
 there. We call it Idlewild. Isn't that a poetical name? I assure you it
 took me some time to think it out. I stayed awake nearly a whole night
 before I invented it. Then, just as I was dropping off to sleep, it came
-like an inspiration. Diana was ENRAPTURED when she heard it. We have got
+like an inspiration. Diana was _enraptured_ when she heard it. We have got
 our house fixed up elegantly. You must come and see it, Marilla--won't
 you? We have great big stones, all covered with moss, for seats, and
 boards from tree to tree for shelves. And we have all our dishes on
@@ -3414,7 +3418,7 @@ can be the souls of good violets?"
 CHAPTER XIV. Anne's Confession
 
 
-ON the Monday evening before the picnic Marilla came down from her room
+|ON the Monday evening before the picnic Marilla came down from her room
 with a troubled face.
 
 "Anne," she said to that small personage, who was shelling peas by the
@@ -3543,8 +3547,8 @@ mind to that," she said firmly.
 
 "But the picnic is tomorrow, Marilla," cried Anne. "You won't keep me
 from going to that, will you? You'll just let me out for the afternoon,
-won't you? Then I'll stay here as long as you like AFTERWARDS
-cheerfully. But I MUST go to the picnic."
+won't you? Then I'll stay here as long as you like _afterwards_
+cheerfully. But I _must_ go to the picnic."
 
 "You'll not go to picnics nor anywhere else until you've confessed,
 Anne."
@@ -3604,7 +3608,7 @@ be your punishment. And it isn't half severe enough either for what
 you've done!"
 
 "Not go to the picnic!" Anne sprang to her feet and clutched Marilla's
-hand. "But you PROMISED me I might! Oh, Marilla, I must go to the
+hand. "But you _promised_ me I might! Oh, Marilla, I must go to the
 picnic. That was why I confessed. Punish me any way you like but that.
 Oh, Marilla, please, please, let me go to the picnic. Think of the ice
 cream! For anything you know I may never have a chance to taste ice
@@ -3761,7 +3765,7 @@ she's in."
 CHAPTER XV. A Tempest in the School Teapot
 
 
-"What a splendid day!" said Anne, drawing a long breath. "Isn't it good
+|WHAT a splendid day!" said Anne, drawing a long breath. "Isn't it good
 just to be alive on a day like this? I pity the people who aren't born
 yet for missing it. They may have good days, of course, but they can
 never have this one. And it's splendider still to have such a lovely way
@@ -3779,7 +3783,7 @@ one's best chum would have forever and ever branded as "awful mean" the
 girl who did it. And yet, when the tarts were divided among ten girls
 you just got enough to tantalize you.
 
-The way Anne and Diana went to school WAS a pretty one. Anne thought
+The way Anne and Diana went to school _was_ a pretty one. Anne thought
 those walks to and from school with Diana couldn't be improved upon
 even by imagination. Going around by the main road would have been so
 unromantic; but to go by Lover's Lane and Willowmere and Violet Vale and
@@ -3850,7 +3854,7 @@ much of the master, through. He's all the time curling his mustache
 and making eyes at Prissy Andrews. Prissy is grown up, you know. She's
 sixteen and she's studying for the entrance examination into Queen's
 Academy at Charlottetown next year. Tillie Boulter says the master is
-DEAD GONE on her. She's got a beautiful complexion and curly brown hair
+_dead gone_ on her. She's got a beautiful complexion and curly brown hair
 and she does it up so elegantly. She sits in the long seat at the back
 and he sits there, too, most of the time--to explain her lessons, he
 says. But Ruby Gillis says she saw him writing something on her slate
@@ -3860,7 +3864,7 @@ lesson."
 
 "Anne Shirley, don't let me hear you talking about your teacher in that
 way again," said Marilla sharply. "You don't go to school to criticize
-the master. I guess he can teach YOU something, and it's your business
+the master. I guess he can teach _you_ something, and it's your business
 to learn. And I want you to understand right off that you are not to
 come home telling tales about him. That is something I won't encourage.
 I hope you were a good girl."
@@ -3870,7 +3874,7 @@ imagine, either. I sit with Diana. Our seat is right by the window and
 we can look down to the Lake of Shining Waters. There are a lot of nice
 girls in school and we had scrumptious fun playing at dinnertime. It's
 so nice to have a lot of little girls to play with. But of course I like
-Diana best and always will. I ADORE Diana. I'm dreadfully far behind the
+Diana best and always will. I _adore_ Diana. I'm dreadfully far behind the
 others. They're all in the fifth book and I'm only in the fourth. I feel
 that it's kind of a disgrace. But there's not one of them has such an
 imagination as I have and I soon found that out. We had reading and
@@ -3898,8 +3902,8 @@ Birch Path, two of the happiest little girls in Avonlea.
 
 "I guess Gilbert Blythe will be in school today," said Diana. "He's been
 visiting his cousins over in New Brunswick all summer and he only came
-home Saturday night. He's AW'FLY handsome, Anne. And he teases the girls
-something terrible. He just torments our lives out."
+home Saturday night. He's _aw'fly_ handsome, Anne. And he teases the
+girls something terrible. He just torments our lives out."
 
 Diana's voice indicated that she rather liked having her life tormented
 out than not.
@@ -3924,14 +3928,14 @@ humiliating to know that there was no danger of it.
 such havoc with the hearts of Avonlea schoolboys that her name figured
 on the porch walls in half a dozen take-notices. "It's only meant as
 a joke. And don't you be too sure your name won't ever be written up.
-Charlie Sloane is DEAD GONE on you. He told his mother--his MOTHER, mind
-you--that you were the smartest girl in school. That's better than being
-good looking."
+Charlie Sloane is _dead gone_ on you. He told his mother--his _mother_,
+mind you--that you were the smartest girl in school. That's better than
+being good looking."
 
 "No, it isn't," said Anne, feminine to the core. "I'd rather be pretty
 than clever. And I hate Charlie Sloane, I can't bear a boy with goggle
-eyes. If anyone wrote my name up with his I'd never GET over it, Diana
-Barry. But it IS nice to keep head of your class."
+eyes. If anyone wrote my name up with his I'd never _get_ over it, Diana
+Barry. But it _is_ nice to keep head of your class."
 
 "You'll have Gilbert in your class after this," said Diana, "and he's
 used to being head of his class, I can tell you. He's only in the fourth
@@ -3954,10 +3958,9 @@ her milk bottle in my place in the brook yesterday. Did you ever? I
 don't speak to her now."
 
 When Mr. Phillips was in the back of the room hearing Prissy Andrews's
-Latin, Diana whispered to Anne,
-
-"That's Gilbert Blythe sitting right across the aisle from you, Anne.
-Just look at him and see if you don't think he's handsome."
+Latin, Diana whispered to Anne, "That's Gilbert Blythe sitting right
+across the aisle from you, Anne. Just look at him and see if you don't
+think he's handsome."
 
 Anne looked accordingly. She had a good chance to do so, for the said
 Gilbert Blythe was absorbed in stealthily pinning the long yellow braid
@@ -3971,7 +3974,7 @@ had whisked the pin out of sight and was studying his history with the
 soberest face in the world; but when the commotion subsided he looked at
 Anne and winked with inexpressible drollery.
 
-"I think your Gilbert Blythe IS handsome," confided Anne to Diana,
+"I think your Gilbert Blythe _is_ handsome," confided Anne to Diana,
 "but I think he's very bold. It isn't good manners to wink at a strange
 girl."
 
@@ -3990,7 +3993,7 @@ window afforded, she was far away in a gorgeous dreamland hearing and
 seeing nothing save her own wonderful visions.
 
 Gilbert Blythe wasn't used to putting himself out to make a girl look
-at him and meeting with failure. She SHOULD look at him, that red-haired
+at him and meeting with failure. She _should_ look at him, that red-haired
 Shirley girl with the little pointed chin and the big eyes that weren't
 like the eyes of any other girl in Avonlea school.
 
@@ -4050,7 +4053,7 @@ for that and it sustained her amid all her agony of humiliation. With
 resentful eyes and passion-red cheeks she confronted alike Diana's
 sympathetic gaze and Charlie Sloane's indignant nods and Josie Pye's
 malicious smiles. As for Gilbert Blythe, she would not even look at him.
-She would NEVER look at him again! She would never speak to him!!
+She would _never_ look at him again! She would never speak to him!!
 
 When school was dismissed Anne marched out with her red head held high.
 Gilbert Blythe tried to intercept her at the porch door.
@@ -4060,7 +4063,7 @@ contritely. "Honest I am. Don't be mad for keeps, now."
 
 Anne swept by disdainfully, without look or sign of hearing. "Oh
 how could you, Anne?" breathed Diana as they went down the road half
-reproachfully, half admiringly. Diana felt that SHE could never have
+reproachfully, half admiringly. Diana felt that _she_ could never have
 resisted Gilbert's plea.
 
 "I shall never forgive Gilbert Blythe," said Anne firmly. "And Mr.
@@ -4077,7 +4080,7 @@ apologize for anything before, either."
 
 "There's a great deal of difference between being called a crow and
 being called carrots," said Anne with dignity. "Gilbert Blythe has hurt
-my feelings EXCRUCIATINGLY, Diana."
+my feelings _excruciatingly_, Diana."
 
 It is possible the matter might have blown over without more
 excruciation if nothing else had happened. But when things begin to
@@ -4179,7 +4182,7 @@ stared at Anne to see if she meant it.
 
 "Will Marilla let you stay home?" she asked.
 
-"She'll have to," said Anne. "I'll NEVER go to school to that man
+"She'll have to," said Anne. "I'll _never_ go to school to that man
 again."
 
 "Oh, Anne!" Diana looked as if she were ready to cry. "I do think you're
@@ -4236,11 +4239,13 @@ shamefacedly.
 Mrs. Rachel nodded.
 
 "About Anne's fuss in school, I reckon," she said. "Tillie Boulter was
-in on her way home from school and told me about it." "I don't know
-what to do with her," said Marilla. "She declares she won't go back to
-school. I never saw a child so worked up. I've been expecting trouble
-ever since she started to school. I knew things were going too smooth to
-last. She's so high strung. What would you advise, Rachel?"
+in on her way home from school and told me about it."
+
+"I don't know what to do with her," said Marilla. "She declares she
+won't go back to school. I never saw a child so worked up. I've been
+expecting trouble ever since she started to school. I knew things were
+going too smooth to last. She's so high strung. What would you advise,
+Rachel?"
 
 "Well, since you've asked my advice, Marilla," said Mrs. Lynde
 amiably--Mrs. Lynde dearly loved to be asked for advice--"I'd just
@@ -4263,11 +4268,11 @@ be ready enough to go back of her own accord, that's what, while, if
 you were to make her go back right off, dear knows what freak or tantrum
 she'd take next and make more trouble than ever. The less fuss made the
 better, in my opinion. She won't miss much by not going to school, as
-far as THAT goes. Mr. Phillips isn't any good at all as a teacher. The
+far as _that_ goes. Mr. Phillips isn't any good at all as a teacher. The
 order he keeps is scandalous, that's what, and he neglects the young
 fry and puts all his time on those big scholars he's getting ready for
 Queen's. He'd never have got the school for another year if his uncle
-hadn't been a trustee--THE trustee, for he just leads the other two
+hadn't been a trustee--_the_ trustee, for he just leads the other two
 around by the nose, that's what. I declare, I don't know what education
 in this Island is coming to."
 
@@ -4318,7 +4323,7 @@ think you had an imagination, sure enough."
 CHAPTER XVI. Diana Is Invited to Tea with Tragic Results
 
 
-OCTOBER was a beautiful month at Green Gables, when the birches in the
+|OCTOBER was a beautiful month at Green Gables, when the birches in the
 hollow turned as golden as sunshine and the maples behind the orchard
 were royal crimson and the wild cherry trees along the lane put on the
 loveliest shades of dark red and bronzy green, while the fields sunned
@@ -4362,7 +4367,7 @@ you this time. And--I don't really know if I'm doing right--it may make
 you more addlepated than ever--but you can ask Diana to come over and
 spend the afternoon with you and have tea here."
 
-"Oh, Marilla!" Anne clasped her hands. "How perfectly lovely! You ARE
+"Oh, Marilla!" Anne clasped her hands. "How perfectly lovely! You _are_
 able to imagine things after all or else you'd never have understood how
 I've longed for that very thing. It will seem so nice and grown-uppish.
 No fear of my forgetting to put the tea to draw when I have company. Oh,
@@ -4387,12 +4392,12 @@ sit?"
 bottle half full of raspberry cordial that was left over from the church
 social the other night. It's on the second shelf of the sitting-room
 closet and you and Diana can have it if you like, and a cooky to eat
-with it along in the afternoon, for I daresay Matthew'll be late coming
+with it along in the afternoon, for I daresay Matthew 'll be late coming
 in to tea since he's hauling potatoes to the vessel."
 
 Anne flew down to the hollow, past the Dryad's Bubble and up the spruce
 path to Orchard Slope, to ask Diana to tea. As a result just after
-Marilla had driven off to Carmody, Diana came over, dressed in HER
+Marilla had driven off to Carmody, Diana came over, dressed in _her_
 second-best dress and looking exactly as it is proper to look when asked
 out to tea. At other times she was wont to run into the kitchen without
 knocking; but now she knocked primly at the front door. And when Anne,
@@ -4407,7 +4412,7 @@ seen Mrs. Barry picking apples that morning in excellent health and
 spirits.
 
 "She is very well, thank you. I suppose Mr. Cuthbert is hauling potatoes
-to the LILY SANDS this afternoon, is he?" said Diana, who had ridden
+to the _lily sands_ this afternoon, is he?" said Diana, who had ridden
 down to Mr. Harmon Andrews's that morning in Matthew's cart.
 
 "Yes. Our potato crop is very good this year. I hope your father's crop
@@ -4437,7 +4442,7 @@ away, true's you live, with a magic pebble that old Mary Joe from the
 Creek gave her. You had to rub the warts with the pebble and then throw
 it away over your left shoulder at the time of the new moon and the
 warts would all go. Charlie Sloane's name was written up with Em White's
-on the porch wall and Em White was AWFUL MAD about it; Sam Boulter had
+on the porch wall and Em White was _awful mad_ about it; Sam Boulter had
 "sassed" Mr. Phillips in class and Mr. Phillips whipped him and Sam's
 father came down to the school and dared Mr. Phillips to lay a hand on
 one of his children again; and Mattie Andrews had a new red hood and a
@@ -4515,12 +4520,12 @@ dinner was all ready and everybody was at the table. I tried to be as
 polite and dignified as I could be, for I wanted Mrs. Chester Ross to
 think I was a ladylike little girl even if I wasn't pretty. Everything
 went right until I saw Marilla coming with the plum pudding in one hand
-and the pitcher of pudding sauce WARMED UP, in the other. Diana, that
+and the pitcher of pudding sauce _warmed up_, in the other. Diana, that
 was a terrible moment. I remembered everything and I just stood up in
 my place and shrieked out 'Marilla, you mustn't use that pudding sauce.
 There was a mouse drowned in it. I forgot to tell you before.' Oh,
 Diana, I shall never forget that awful moment if I live to be a hundred.
-Mrs. Chester Ross just LOOKED at me and I thought I would sink through
+Mrs. Chester Ross just _looked_ at me and I thought I would sink through
 the floor with mortification. She is such a perfect housekeeper and
 fancy what she must have thought of us. Marilla turned red as fire but
 she never said a word--then. She just carried that sauce and pudding out
@@ -4581,7 +4586,7 @@ right up this very minute and tell me what you are crying about."
 Anne sat up, tragedy personified.
 
 "Mrs. Lynde was up to see Mrs. Barry today and Mrs. Barry was in an
-awful state," she wailed. "She says that I set Diana DRUNK Saturday
+awful state," she wailed. "She says that I set Diana _drunk_ Saturday
 and sent her home in a disgraceful condition. And she says I must be a
 thoroughly bad, wicked little girl and she's never, never going to let
 Diana play with me again. Oh, Marilla, I'm just overcome with woe."
@@ -4707,7 +4712,7 @@ in and shutting the door.
 Anne went back to Green Gables calm with despair.
 
 "My last hope is gone," she told Marilla. "I went up and saw Mrs. Barry
-myself and she treated me very insultingly. Marilla, I do NOT think she
+myself and she treated me very insultingly. Marilla, I do _not_ think she
 is a well-bred woman. There is nothing more to do except to pray and I
 haven't much hope that that'll do much good because, Marilla, I do not
 believe that God Himself can do very much with such an obstinate person
@@ -4730,7 +4735,8 @@ cheek on the pillow.
 
 CHAPTER XVII. A New Interest in Life
 
-THE next afternoon Anne, bending over her patchwork at the kitchen
+
+|THE next afternoon Anne, bending over her patchwork at the kitchen
 window, happened to glance out and beheld Diana down by the Dryad's
 Bubble beckoning mysteriously. In a trice Anne was out of the house
 and flying down to the hollow, astonishment and hope struggling in
@@ -4755,12 +4761,12 @@ thee?"
 "Indeed I will," sobbed Diana, "and I'll never have another bosom
 friend--I don't want to have. I couldn't love anybody as I love you."
 
-"Oh, Diana," cried Anne, clasping her hands, "do you LOVE me?"
+"Oh, Diana," cried Anne, clasping her hands, "do you _love_ me?"
 
 "Why, of course I do. Didn't you know that?"
 
-"No." Anne drew a long breath. "I thought you LIKED me of course but I
-never hoped you LOVED me. Why, Diana, I didn't think anybody could
+"No." Anne drew a long breath. "I thought you _liked_ me of course but I
+never hoped you _loved_ me. Why, Diana, I didn't think anybody could
 love me. Nobody ever has loved me since I can remember. Oh, this is
 wonderful! It's a ray of light which will forever shine on the darkness
 of a path severed from thee, Diana. Oh, just say it once again."
@@ -4870,10 +4876,8 @@ after school to rewrite it.
 
 But as,
 
-
   The Caesar's pageant shorn of Brutus' bust
   Did but of Rome's best son remind her more,
-
 
 so the marked absence of any tribute or recognition from Diana Barry who
 was sitting with Gertie Pye embittered Anne's little triumph.
@@ -4916,7 +4920,7 @@ Yours until death us do part
 Anne or Cordelia Shirley.
 
 
-P.S. I shall sleep with your letter under my pillow tonight. A. OR C.S.
+P.S. I shall sleep with your letter under my pillow tonight. A. _or_ C.S.
 
 
 Marilla pessimistically expected more trouble since Anne had again begun
@@ -4960,7 +4964,7 @@ mortifying, Marilla.
 
 "Even Diana gets along better than I do. But I don't mind being beaten
 by Diana. Even although we meet as strangers now I still love her with
-an INEXTINGUISHABLE love. It makes me very sad at times to think about
+an _inextinguishable_ love. It makes me very sad at times to think about
 her. But really, Marilla, one can't stay sad very long in such an
 interesting world, can one?"
 
@@ -4968,7 +4972,8 @@ interesting world, can one?"
 
 CHAPTER XVIII. Anne to the Rescue
 
-ALL things great are wound up with all things little. At first glance
+
+|ALL things great are wound up with all things little. At first glance
 it might not seem that the decision of a certain Canadian Premier to
 include Prince Edward Island in a political tour could have much or
 anything to do with the fortunes of little Anne Shirley at Green Gables.
@@ -4993,7 +4998,7 @@ Hence, while Marilla and Mrs. Rachel were enjoying themselves hugely
 at the mass meeting, Anne and Matthew had the cheerful kitchen at Green
 Gables all to themselves. A bright fire was glowing in the old-fashioned
 Waterloo stove and blue-white frost crystals were shining on the
-windowpanes. Matthew nodded over a FARMERS' ADVOCATE on the sofa and
+windowpanes. Matthew nodded over a _Farmers' Advocate_ on the sofa and
 Anne at the table studied her lessons with grim determination, despite
 sundry wistful glances at the clock shelf, where lay a new book that
 Jane Andrews had lent her that day. Jane had assured her that it was
@@ -5072,7 +5077,7 @@ temptation, Matthew. Even when I turn my back on it I can see it there
 just as plain. Jane said she cried herself sick over it. I love a book
 that makes me cry. But I think I'll carry that book into the sitting
 room and lock it in the jam closet and give you the key. And you must
-NOT give it to me, Matthew, until my lessons are done, not even if
+_not_ give it to me, Matthew, until my lessons are done, not even if
 I implore you on my bended knees. It's all very well to say resist
 temptation, but it's ever so much easier to resist it if you can't get
 the key. And then shall I run down the cellar and get some russets,
@@ -5277,22 +5282,20 @@ and I had a lovely afternoon. Diana showed me a new fancy crochet stitch
 her aunt over at Carmody taught her. Not a soul in Avonlea knows it but
 us, and we pledged a solemn vow never to reveal it to anyone else. Diana
 gave me a beautiful card with a wreath of roses on it and a verse of
-poetry:
-
+poetry:"
 
       "If you love me as I love you
-      Nothing but death can part us two.
+      Nothing but death can part us two."
 
-
-"And that is true, Marilla. We're going to ask Mr. Phillips to let us sit
-together in school again, and Gertie Pye can go with Minnie Andrews. We
-had an elegant tea. Mrs. Barry had the very best china set out, Marilla,
-just as if I was real company. I can't tell you what a thrill it gave
-me. Nobody ever used their very best china on my account before. And we
-had fruit cake and pound cake and doughnuts and two kinds of preserves,
-Marilla. And Mrs. Barry asked me if I took tea and said 'Pa, why don't
-you pass the biscuits to Anne?' It must be lovely to be grown up,
-Marilla, when just being treated as if you were is so nice."
+"And that is true, Marilla. We're going to ask Mr. Phillips to let us
+sit together in school again, and Gertie Pye can go with Minnie Andrews.
+We had an elegant tea. Mrs. Barry had the very best china set out,
+Marilla, just as if I was real company. I can't tell you what a thrill
+it gave me. Nobody ever used their very best china on my account before.
+And we had fruit cake and pound cake and doughnuts and two kinds of
+preserves, Marilla. And Mrs. Barry asked me if I took tea and said 'Pa,
+why don't you pass the biscuits to Anne?' It must be lovely to be grown
+up, Marilla, when just being treated as if you were is so nice."
 
 "I don't know about that," said Marilla, with a brief sigh.
 
@@ -5314,7 +5317,8 @@ prayer in honor of the occasion."
 
 CHAPTER XIX. A Concert a Catastrophe and a Confession
 
-"MARILLA, can I go over to see Diana just for a minute?" asked Anne,
+
+|MARILLA, can I go over to see Diana just for a minute?" asked Anne,
 running breathlessly down from the east gable one February evening.
 
 "I don't see what you want to be traipsing about after dark for," said
@@ -5425,7 +5429,7 @@ Matthew paused on his way out to the barn to say to Marilla again:
 For a moment Marilla looked things not lawful to be uttered. Then she
 yielded to the inevitable and said tartly:
 
-"Very well, she can go, since nothing else'll please you."
+"Very well, she can go, since nothing else 'll please you."
 
 Anne flew out of the pantry, dripping dishcloth in hand.
 
@@ -5539,9 +5543,7 @@ recite. Gilbert Blythe does often and he's only two years older than us.
 Oh, Anne, how could you pretend not to listen to him? When he came to
 the line,
 
-
-           "THERE'S ANOTHER, not A SISTER,
-
+           '_There's Another_, not _a sister_,'
 
 he looked right down at you."
 
@@ -5560,7 +5562,7 @@ Anne and Diana were never able to tell just how they got off that bed
 and out of the room. They only knew that after one frantic rush they
 found themselves tiptoeing shiveringly upstairs.
 
-"Oh, who was it--WHAT was it?" whispered Anne, her teeth chattering with
+"Oh, who was it--_what_ was it?" whispered Anne, her teeth chattering with
 cold and fright.
 
 "It was Aunt Josephine," said Diana, gasping with laughter. "Oh, Anne,
@@ -5571,7 +5573,7 @@ know anything so funny, Anne?"
 "Who is your Aunt Josephine?"
 
 "She's father's aunt and she lives in Charlottetown. She's awfully
-old--seventy anyhow--and I don't believe she was EVER a little girl. We
+old--seventy anyhow--and I don't believe she was _ever_ a little girl. We
 were expecting her out for a visit, but not so soon. She's awfully prim
 and proper and she'll scold dreadfully about this, I know. Well, we'll
 have to sleep with Minnie May--and you can't think how she kicks."
@@ -5710,7 +5712,7 @@ Little girls never indulged in that kind of fun when I was young. You
 don't know what it is to be awakened out of a sound sleep, after a long
 and arduous journey, by two great girls coming bounce down on you."
 
-"I don't KNOW, but I can IMAGINE," said Anne eagerly. "I'm sure it must
+"I don't _know_, but I can _imagine_," said Anne eagerly. "I'm sure it must
 have been very disturbing. But then, there is our side of it too. Have
 you any imagination, Miss Barry? If you have, just put yourself in
 our place. We didn't know there was anybody in that bed and you nearly
@@ -5770,7 +5772,7 @@ splendid to find out there are so many of them in the world."
 CHAPTER XX. A Good Imagination Gone Wrong
 
 
-Spring had come once more to Green Gables--the beautiful capricious,
+|SPRING had come once more to Green Gables--the beautiful capricious,
 reluctant Canadian spring, lingering along through April and May in a
 succession of sweet, fresh, chilly days, with pink sunsets and miracles
 of resurrection and growth. The maples in Lover's Lane were red budded
@@ -5786,13 +5788,13 @@ Mayflowers," said Anne. "Diana says perhaps they have something better,
 but there couldn't be anything better than Mayflowers, could there,
 Marilla? And Diana says if they don't know what they are like they don't
 miss them. But I think that is the saddest thing of all. I think it
-would be TRAGIC, Marilla, not to know what Mayflowers are like and NOT
+would be _tragic_, Marilla, not to know what Mayflowers are like and _not_
 to miss them. Do you know what I think Mayflowers are, Marilla? I think
 they must be the souls of the flowers that died last summer and this
 is their heaven. But we had a splendid time today, Marilla. We had our
-lunch down in a big mossy hollow by an old well--such a ROMANTIC spot.
+lunch down in a big mossy hollow by an old well--such a _romantic_ spot.
 Charlie Sloane dared Arty Gillis to jump over it, and Arty did because
-he wouldn't take a dare. Nobody would in school. It is very FASHIONABLE
+he wouldn't take a dare. Nobody would in school. It is very _fashionable_
 to dare. Mr. Phillips gave all the Mayflowers he found to Prissy Andrews
 and I heard him to say 'sweets to the sweet.' He got that out of a
 book, I know; but it shows he has some imagination. I was offered some
@@ -5857,7 +5859,7 @@ Headaches always left Marilla somewhat sarcastic.
 
 "Oh, I'm so sorry," said Anne penitently. "I never thought about that
 pie from the moment I put it in the oven till now, although I felt
-INSTINCTIVELY that there was something missing on the dinner table. I
+_instinctively_ that there was something missing on the dinner table. I
 was firmly resolved, when you left me in charge this morning, not to
 imagine anything, but keep my thoughts on facts. I did pretty well until
 I put the pie in, and then an irresistible temptation came to me to
@@ -5915,7 +5917,7 @@ Wood?"
 has been telling you such stuff?"
 
 "Nobody," confessed Anne. "Diana and I just imagined the wood was
-haunted. All the places around here are so--so--COMMONPLACE. We just got
+haunted. All the places around here are so--so--_commonplace_. We just got
 this up for our own amusement. We began it in April. A haunted wood is
 so very romantic, Marilla. We chose the spruce grove because it's so
 gloomy. Oh, we have imagined the most harrowing things. There's a white
@@ -5933,7 +5935,7 @@ would reach out from behind the trees and grab me."
 listened in dumb amazement. "Anne Shirley, do you mean to tell me you
 believe all that wicked nonsense of your own imagination?"
 
-"Not believe EXACTLY," faltered Anne. "At least, I don't believe it in
+"Not believe _exactly_," faltered Anne. "At least, I don't believe it in
 daylight. But after dark, Marilla, it's different. That is when ghosts
 walk."
 
@@ -6001,7 +6003,7 @@ c-c-commonplace places after this."
 CHAPTER XXI. A New Departure in Flavorings
 
 
-"Dear me, there is nothing but meetings and partings in this world, as
+|DEAR ME, there is nothing but meetings and partings in this world, as
 Mrs. Lynde says," remarked Anne plaintively, putting her slate and books
 down on the kitchen table on the last day of June and wiping her red
 eyes with a very damp handkerchief. "Wasn't it fortunate, Marilla, that
@@ -6018,8 +6020,8 @@ Ruby Gillis started it. Ruby Gillis has always declared she hated Mr.
 Phillips, but just as soon as he got up to make his farewell speech she
 burst into tears. Then all the girls began to cry, one after the other.
 I tried to hold out, Marilla. I tried to remember the time Mr. Phillips
-made me sit with Gil--with a, boy; and the time he spelled my name
-without an e on the blackboard; and how he said I was the worst dunce
+made me sit with Gil--with a boy; and the time he spelled my name
+without an 'e' on the blackboard; and how he said I was the worst dunce
 he ever saw at geometry and laughed at my spelling; and all the times he
 had been so horrid and sarcastic; but somehow I couldn't, Marilla, and I
 just had to cry too. Jane Andrews has been talking for a month about how
@@ -6125,7 +6127,7 @@ to be a Sunday-school picnic this summer. I didn't think that was a
 very proper question to ask because it hadn't any connection with the
 lesson--the lesson was about Daniel in the lions' den--but Mrs. Allan
 just smiled and said she thought there would be. Mrs. Allan has a
-lovely smile; she has such EXQUISITE dimples in her cheeks. I wish I had
+lovely smile; she has such _exquisite_ dimples in her cheeks. I wish I had
 dimples in my cheeks, Marilla. I'm not half so skinny as I was when I
 came here, but I have no dimples yet. If I had perhaps I could influence
 people for good. Mrs. Allan said we ought always to try to influence
@@ -6237,7 +6239,7 @@ fix the table with ferns and wild roses?"
 "I think that's all nonsense," sniffed Marilla. "In my opinion it's the
 eatables that matter and not flummery decorations."
 
-"Mrs. Barry had HER table decorated," said Anne, who was not entirely
+"Mrs. Barry had _her_ table decorated," said Anne, who was not entirely
 guiltless of the wisdom of the serpent, "and the minister paid her an
 elegant compliment. He said it was a feast for the eye as well as the
 palate."
@@ -6299,7 +6301,7 @@ filled with a brown liquid and labeled yellowly, "Best Vanilla."
 
 Marilla took it, uncorked it, smelled it.
 
-"Mercy on us, Anne, you've flavored that cake with ANODYNE LINIMENT. I
+"Mercy on us, Anne, you've flavored that cake with _Anodyne Liniment_. I
 broke the liniment bottle last week and poured what was left into an
 old empty vanilla bottle. I suppose it's partly my fault--I should have
 warned you--but for pity's sake why couldn't you have smelled it?"
@@ -6378,7 +6380,7 @@ with them. That's a very comforting thought."
 CHAPTER XXII. Anne is Invited Out to Tea
 
 
-"And what are your eyes popping out of your head about. Now?" asked
+|AND what are your eyes popping out of your head about. Now?" asked
 Marilla, when Anne had just come in from a run to the post office. "Have
 you discovered another kindred spirit?" Excitement hung around Anne like
 a garment, shone in her eyes, kindled in every feature. She had come
@@ -6435,7 +6437,7 @@ manse before, and I'm not sure that I know all the rules of etiquette,
 although I've been studying the rules given in the Etiquette Department
 of the Family Herald ever since I came here. I'm so afraid I'll do
 something silly or forget to do something I should do. Would it be
-good manners to take a second helping of anything if you wanted to VERY
+good manners to take a second helping of anything if you wanted to _very_
 much?"
 
 "The trouble with you, Anne, is that you're thinking too much about
@@ -6459,7 +6461,7 @@ Lane, in and out among the ferns and rustling boughs. Anne watched them
 as she talked and somehow felt that wind and stars and fireflies were
 all tangled up together into something unutterably sweet and enchanting.
 
-"Oh, Marilla, I've had a most FASCINATING time. I feel that I have not
+"Oh, Marilla, I've had a most _fascinating_ time. I feel that I have not
 lived in vain and I shall always feel like that even if I should never
 be invited to tea at a manse again. When I got there Mrs. Allan met me
 at the door. She was dressed in the sweetest dress of pale-pink organdy,
@@ -6477,7 +6479,7 @@ something? Mrs. Allan is one of the naturally good people. I love her
 passionately. You know there are some people, like Matthew and Mrs.
 Allan that you can love right off without any trouble. And there are
 others, like Mrs. Lynde, that you have to try very hard to love. You
-know you OUGHT to love them because they know so much and are such
+know you _ought_ to love them because they know so much and are such
 active workers in the church, but you have to keep reminding yourself of
 it all the time or else you forget. There was another little girl at the
 manse to tea, from the White Sands Sunday school. Her name was Laurette
@@ -6514,7 +6516,7 @@ her."
 CHAPTER XXIII. Anne Comes to Grief in an Affair of Honor
 
 
-Anne had to live through more than two weeks, as it happened. Almost a
+|ANNE had to live through more than two weeks, as it happened. Almost a
 month having elapsed since the liniment cake episode, it was high time
 for her to get into fresh trouble of some sort, little mistakes, such as
 absentmindedly emptying a pan of skim milk into a basket of yarn balls
@@ -6566,7 +6568,7 @@ board fence," she said. "I knew a girl in Marysville who could walk the
 ridgepole of a roof."
 
 "I don't believe it," said Josie flatly. "I don't believe anybody could
-walk a ridgepole. YOU couldn't, anyhow."
+walk a ridgepole. _You_ couldn't, anyhow."
 
 "Couldn't I?" cried Anne rashly.
 
@@ -6718,7 +6720,7 @@ take a little trouble. I gave him a good broad hint. I told him how hard
 I tried to make my own little private prayers interesting. He told me
 all about the time he broke his ankle when he was a boy. It does seem
 so strange to think of Superintendent Bell ever being a boy. Even my
-imagination has its limits, for I can't imagine THAT. When I try to
+imagination has its limits, for I can't imagine _that_. When I try to
 imagine him as a boy I see him with gray whiskers and spectacles, just
 as he looks in Sunday school, only small. Now, it's so easy to imagine
 Mrs. Allan as a little girl. Mrs. Allan has been to see me fourteen
@@ -6758,7 +6760,7 @@ that your fall off the Barry roof hasn't injured your tongue at all."
 CHAPTER XXIV. Miss Stacy and Her Pupils Get Up a Concert
 
 
-It was October again when Anne was ready to go back to school--a
+|IT was October again when Anne was ready to go back to school--a
 glorious October, all red and gold, with mellow mornings when the
 valleys were filled with delicate mists as if the spirit of autumn had
 poured them in for the sun to drain--amethyst, pearl, silver, rose, and
@@ -6767,7 +6769,7 @@ of silver and there were such heaps of rustling leaves in the hollows of
 many-stemmed woods to run crisply through. The Birch Path was a canopy
 of yellow and the ferns were sear and brown all along it. There was a
 tang in the very air that inspired the hearts of small maidens tripping,
-unlike snails, swiftly and willingly to school; and it WAS jolly to
+unlike snails, swiftly and willingly to school; and it _was_ jolly to
 be back again at the little brown desk beside Diana, with Ruby Gillis
 nodding across the aisle and Carrie Sloane sending up notes and Julia
 Bell passing a "chew" of gum down from the back seat. Anne drew a long
@@ -6783,7 +6785,7 @@ critical Marilla glowing accounts of schoolwork and aims.
 
 "I love Miss Stacy with my whole heart, Marilla. She is so ladylike
 and she has such a sweet voice. When she pronounces my name I feel
-INSTINCTIVELY that she's spelling it with an E. We had recitations
+_instinctively_ that she's spelling it with an E. We had recitations
 this afternoon. I just wish you could have been there to hear me recite
 'Mary, Queen of Scots.' I just put my whole soul into it. Ruby Gillis
 told me coming home that the way I said the line, 'Now for my father's
@@ -6798,7 +6800,7 @@ it so well, I know. It won't be so exciting as it is when you have a
 whole schoolful before you hanging breathlessly on your words. I know I
 won't be able to make your blood run cold."
 
-"Mrs. Lynde says it made HER blood run cold to see the boys climbing to
+"Mrs. Lynde says it made _her_ blood run cold to see the boys climbing to
 the very tops of those big trees on Bell's hill after crows' nests last
 Friday," said Marilla. "I wonder at Miss Stacy for encouraging it."
 
@@ -6810,7 +6812,7 @@ compositions on our field afternoons and I write the best ones."
 "It's very vain of you to say so then. You'd better let your teacher say
 it."
 
-"But she DID say it, Marilla. And indeed I'm not vain about it. How can
+"But she _did_ say it, Marilla. And indeed I'm not vain about it. How can
 I be, when I'm such a dunce at geometry? Although I'm really beginning
 to see through it a little, too. Miss Stacy makes it so clear. Still,
 I'll never be good at it and I assure you it is a humbling reflection.
@@ -6908,7 +6910,7 @@ as much good as all the conscientious "bringing up" in the world.
 CHAPTER XXV. Matthew Insists on Puffed Sleeves
 
 
-Matthew was having a bad ten minutes of it. He had come into the
+|MATTHEW was having a bad ten minutes of it. He had come into the
 kitchen, in the twilight of a cold, gray December evening, and had sat
 down in the woodbox corner to take off his heavy boots, unconscious of
 the fact that Anne and a bevy of her schoolmates were having a practice
@@ -7081,7 +7083,7 @@ she's an old maid. But that's always the way. Folks that has brought up
 children know that there's no hard and fast method in the world that'll
 suit every child. But them as never have think it's all as plain and
 easy as Rule of Three--just set your three terms down so fashion, and
-the sum'll work out correct. But flesh and blood don't come under the
+the sum 'll work out correct. But flesh and blood don't come under the
 head of arithmetic and that's where Marilla Cuthbert makes her mistake.
 I suppose she's trying to cultivate a spirit of humility in Anne by
 dressing her as she does; but it's more likely to cultivate envy and
@@ -7172,7 +7174,7 @@ ulster. Anne flew down the slope to meet her.
 
 "Merry Christmas, Diana! And oh, it's a wonderful Christmas. I've
 something splendid to show you. Matthew has given me the loveliest
-dress, with SUCH sleeves. I couldn't even imagine any nicer."
+dress, with _such_ sleeves. I couldn't even imagine any nicer."
 
 "I've got something more for you," said Diana breathlessly. "Here--this
 box. Aunt Josephine sent us out a big box with ever so many things in
@@ -7278,7 +7280,7 @@ over."
 CHAPTER XXVI. The Story Club Is Formed
 
 
-Junior Avonlea found it hard to settle down to humdrum existence
+|JUNIOR Avonlea found it hard to settle down to humdrum existence
 again. To Anne in particular things seemed fearfully flat, stale, and
 unprofitable after the goblet of excitement she had been sipping for
 weeks. Could she go back to the former quiet pleasures of those faraway
@@ -7586,7 +7588,7 @@ untrustworthy until you're sure she has disobeyed you. Mebbe it can all
 be explained--Anne's a great hand at explaining."
 
 "She's not here when I told her to stay," retorted Marilla. "I reckon
-she'll find it hard to explain THAT to my satisfaction. Of course I knew
+she'll find it hard to explain _that_ to my satisfaction. Of course I knew
 you'd take her part, Matthew. But I'm bringing her up, not you."
 
 It was dark when supper was ready, and still no sign of Anne, coming
@@ -7626,7 +7628,7 @@ Accordingly, Marilla lifted her candle and looked scrutinizingly at
 Anne's hair, flowing in heavy masses down her back. It certainly had a
 very strange appearance.
 
-"Anne Shirley, what have you done to your hair? Why, it's GREEN!"
+"Anne Shirley, what have you done to your hair? Why, it's _green!_"
 
 Green it might be called, if it were any earthly color--a queer,
 dull, bronzy green, with streaks here and there of the original red
@@ -7664,7 +7666,7 @@ would. How could I doubt his word, Marilla? I know what it feels like
 to have your word doubted. And Mrs. Allan says we should never suspect
 anyone of not telling us the truth unless we have proof that they're
 not. I have proof now--green hair is proof enough for anybody. But I
-hadn't then and I believed every word he said IMPLICITLY."
+hadn't then and I believed every word he said _implicitly_."
 
 "Who said? Who are you talking about?"
 
@@ -7710,7 +7712,7 @@ liniment cake and setting Diana drunk and flying into a temper with
 Mrs. Lynde. But they'll never forget this. They will think I am not
 respectable. Oh, Marilla, 'what a tangled web we weave when first we
 practice to deceive.' That is poetry, but it is true. And oh, how Josie
-Pye will laugh! Marilla, I CANNOT face Josie Pye. I am the unhappiest
+Pye will laugh! Marilla, I _cannot_ face Josie Pye. I am the unhappiest
 girl in Prince Edward Island."
 
 Anne's unhappiness continued for a week. During that time she went
@@ -7787,7 +7789,7 @@ Which was Marilla's way of saying that she liked to hear it.
 CHAPTER XXVIII. An Unfortunate Lily Maid
 
 
-"OF course you must be Elaine, Anne," said Diana. "I could never have
+|OF course you must be Elaine, Anne," said Diana. "I could never have
 the courage to float down there."
 
 "Nor I," said Ruby Gillis, with a shiver. "I don't mind floating down
@@ -8084,7 +8086,7 @@ Anne, keep a little of it."
 CHAPTER XXIX. An Epoch in Anne's Life
 
 
-Anne was bringing the cows home from the back pasture by way of Lover's
+|ANNE was bringing the cows home from the back pasture by way of Lover's
 Lane. It was a September evening and all the gaps and clearings in the
 woods were brimmed up with ruby sunset light. Here and there the lane
 was splashed with it, but for the most part it was already quite shadowy
@@ -8094,15 +8096,13 @@ there is no sweeter music on earth than that which the wind makes in the
 fir trees at evening.
 
 The cows swung placidly down the lane, and Anne followed them dreamily,
-repeating aloud the battle canto from MARMION--which had also been part
+repeating aloud the battle canto from _Marmion_--which had also been part
 of their English course the preceding winter and which Miss Stacy had
 made them learn off by heart--and exulting in its rushing lines and the
 clash of spears in its imagery. When she came to the lines
 
-
        The stubborn spearsmen still made good
        Their dark impenetrable wood,
-
 
 she stopped in ecstasy to shut her eyes that she might the better fancy
 herself one of that heroic ring. When she opened them again it was to
@@ -8264,14 +8264,14 @@ the horse races. Mrs. Lynde wouldn't go; she said horse racing was an
 abomination and, she being a church member, thought it her bounden duty
 to set a good example by staying away. But there were so many there I
 don't believe Mrs. Lynde's absence would ever be noticed. I don't think,
-though, that I ought to go very often to horse races, because they ARE
+though, that I ought to go very often to horse races, because they _are_
 awfully fascinating. Diana got so excited that she offered to bet me
 ten cents that the red horse would win. I didn't believe he would, but
 I refused to bet, because I wanted to tell Mrs. Allan all about
 everything, and I felt sure it wouldn't do to tell her that. It's always
 wrong to do anything you can't tell the minister's wife. It's as good as
 an extra conscience to have a minister's wife for your friend. And I was
-very glad I didn't bet, because the red horse DID win, and I would have
+very glad I didn't bet, because the red horse _did_ win, and I would have
 lost ten cents. So you see that virtue was its own reward. We saw a man
 go up in a balloon. I'd love to go up in a balloon, Marilla; it would
 be simply thrilling; and we saw a man selling fortunes. You paid him ten
@@ -8390,7 +8390,7 @@ marks an epoch in my life. But the best of it all was the coming home."
 CHAPTER XXX. The Queens Class Is Organized
 
 
-Marilla laid her knitting on her lap and leaned back in her chair. Her
+|MARILLA laid her knitting on her lap and leaned back in her chair. Her
 eyes were tired, and she thought vaguely that she must see about having
 her glasses changed the next time she went to town, for her eyes had
 grown tired very often of late.
@@ -8506,14 +8506,14 @@ a girl I wasn't so much as allowed to look at a novel."
 "Oh, how can you call Ben Hur a novel when it's really such a religious
 book?" protested Anne. "Of course it's a little too exciting to be
 proper reading for Sunday, and I only read it on weekdays. And I never
-read ANY book now unless either Miss Stacy or Mrs. Allan thinks it is a
+read _any_ book now unless either Miss Stacy or Mrs. Allan thinks it is a
 proper book for a girl thirteen and three-quarters to read. Miss Stacy
 made me promise that. She found me reading a book one day called, The
 Lurid Mystery of the Haunted Hall. It was one Ruby Gillis had lent me,
 and, oh, Marilla, it was so fascinating and creepy. It just curdled the
 blood in my veins. But Miss Stacy said it was a very silly, unwholesome
 book, and she asked me not to read any more of it or any like it. I
-didn't mind promising not to read any more like it, but it was AGONIZING
+didn't mind promising not to read any more like it, but it was _agonizing_
 to give back that book without knowing how it turned out. But my love
 for Miss Stacy stood the test and I did. It's really wonderful, Marilla,
 what you can do when you're truly anxious to please a certain person."
@@ -8605,7 +8605,7 @@ from mournful experience, for Mrs. Lynde says that her father is a
 perfect old crank, and meaner than second skimmings. Josie Pye says she
 is just going to college for education's sake, because she won't have to
 earn her own living; she says of course it is different with orphans who
-are living on charity--THEY have to hustle. Moody Spurgeon is going to
+are living on charity--_they_ have to hustle. Moody Spurgeon is going to
 be a minister. Mrs. Lynde says he couldn't be anything else with a name
 like that to live up to. I hope it isn't wicked of me, Marilla, but
 really the thought of Moody Spurgeon being a minister makes me laugh.
@@ -8623,8 +8623,8 @@ was opening her Caesar.
 has any," said Anne scornfully.
 
 There was open rivalry between Gilbert and Anne now. Previously the
-rivalry had been rather onesided, but there was no longer any doubt that
-Gilbert was as determined to be first in class as Anne was. He was
+rivalry had been rather one-sided, but there was no longer any doubt
+that Gilbert was as determined to be first in class as Anne was. He was
 a foeman worthy of her steel. The other members of the class tacitly
 acknowledged their superiority, and never dreamed of trying to compete
 with them.
@@ -8711,7 +8711,7 @@ box.
 "I'm not even going to look at a schoolbook in vacation," she told
 Marilla. "I've studied as hard all the term as I possibly could and I've
 pored over that geometry until I know every proposition in the first
-book off by heart, even when the letters ARE changed. I just feel tired
+book off by heart, even when the letters _are_ changed. I just feel tired
 of everything sensible and I'm going to let my imagination run riot for
 the summer. Oh, you needn't be alarmed, Marilla. I'll only let it run
 riot within reasonable limits. But I want to have a real good jolly time
@@ -8762,7 +8762,7 @@ and I wouldn't be afraid to trust her in anything now."
 "I never would have thought she'd have turned out so well that first day
 I was here three years ago," said Mrs. Rachel. "Lawful heart, shall I
 ever forget that tantrum of hers! When I went home that night I says to
-Thomas, says I, 'Mark my words, Thomas, Marilla Cuthbert'll live to
+Thomas, says I, 'Mark my words, Thomas, Marilla Cuthbert 'll live to
 rue the step she's took.' But I was mistaken and I'm real glad of it. I
 ain't one of those kind of people, Marilla, as can never be brought to
 own up that they've made a mistake. No, that never was my way, thank
@@ -8785,7 +8785,7 @@ alongside of the big, red peonies, that's what."
 CHAPTER XXXI. Where the Brook and River Meet
 
 
-Anne had her "good" summer and enjoyed it wholeheartedly. She and Diana
+|ANNE had her "good" summer and enjoyed it wholeheartedly. She and Diana
 fairly lived outdoors, reveling in all the delights that Lover's Lane
 and the Dryad's Bubble and Willowmere and Victoria Island afforded.
 Marilla offered no objections to Anne's gypsyings. The Spencervale
@@ -8908,7 +8908,7 @@ The Debating Club flourished and gave several concerts; there were one
 or two parties almost verging on grown-up affairs; there were sleigh
 drives and skating frolics galore.
 
-Betweentimes Anne grew, shooting up so rapidly that Marilla was
+Between times Anne grew, shooting up so rapidly that Marilla was
 astonished one day, when they were standing side by side, to find the
 girl was taller than herself.
 
@@ -9015,7 +9015,7 @@ to enjoy them.
 CHAPTER XXXII. The Pass List Is Out
 
 
-With the end of June came the close of the term and the close of Miss
+|WITH the end of June came the close of the term and the close of Miss
 Stacy's rule in Avonlea school. Anne and Diana walked home that
 evening feeling very sober indeed. Red eyes and damp handkerchiefs bore
 convincing testimony to the fact that Miss Stacy's farewell words must
@@ -9042,7 +9042,7 @@ Two big tears rolled down by Diana's nose.
 soon as I put away my hanky I see you brimming up and that starts me off
 again. As Mrs. Lynde says, 'If you can't be cheerful, be as cheerful as
 you can.' After all, I dare say I'll be back next year. This is one
-of the times I KNOW I'm not going to pass. They're getting alarmingly
+of the times I _know_ I'm not going to pass. They're getting alarmingly
 frequent."
 
 "Why, you came out splendidly in the exams Miss Stacy gave."
@@ -9050,7 +9050,7 @@ frequent."
 "Yes, but those exams didn't make me nervous. When I think of the real
 thing you can't imagine what a horrid cold fluttery feeling comes round
 my heart. And then my number is thirteen and Josie Pye says it's so
-unlucky. I am NOT superstitious and I know it can make no difference.
+unlucky. I am _not_ superstitious and I know it can make no difference.
 But still I wish it wasn't thirteen."
 
 "I do wish I was going in with you," said Diana. "Wouldn't we have
@@ -9063,7 +9063,7 @@ think about the exams at all and go to bed early. It's good advice, but
 I expect it will be hard to follow; good advice is apt to be, I think.
 Prissy Andrews told me that she sat up half the night every night of her
 Entrance week and crammed for dear life; and I had determined to sit up
-AT LEAST as long as she did. It was so kind of your Aunt Josephine to
+_at least_ as long as she did. It was so kind of your Aunt Josephine to
 ask me to stay at Beechwood while I'm in town."
 
 "You'll write to me while you're in, won't you?"
@@ -9081,7 +9081,7 @@ the post office, as agreed, and got her letter.
 
 "Here it is Tuesday night and I'm writing this in the library at
 Beechwood. Last night I was horribly lonesome all alone in my room and
-wished so much you were with me. I couldn't "cram" because I'd promised
+wished so much you were with me. I couldn't 'cram' because I'd promised
 Miss Stacy not to, but it was as hard to keep from opening my history
 as it used to be to keep from reading a story before my lessons were
 learned.
@@ -9113,7 +9113,7 @@ around as I picked it up. Just one awful moment--Diana, I felt exactly
 as I did four years ago when I asked Marilla if I might stay at Green
 Gables--and then everything cleared up in my mind and my heart began
 beating again--I forgot to say that it had stopped altogether!--for I
-knew I could do something with THAT paper anyhow.
+knew I could do something with _that_ paper anyhow.
 
 "At noon we went home for dinner and then back again for history in
 the afternoon. The history was a pretty hard paper and I got dreadfully
@@ -9239,7 +9239,7 @@ her. She could not move a step. It seemed an hour to her before Diana
 came rushing along the hall and burst into the room without even
 knocking, so great was her excitement.
 
-"Anne, you've passed," she cried, "passed the VERY FIRST--you and
+"Anne, you've passed," she cried, "passed the _very first_--you and
 Gilbert both--you're ties--but your name is first. Oh, I'm so proud!"
 
 Diana flung the paper on the table and herself on Anne's bed, utterly
@@ -9265,7 +9265,7 @@ you're as calm and cool as a spring evening."
 
 "I'm just dazzled inside," said Anne. "I want to say a hundred things,
 and I can't find words to say them in. I never dreamed of this--yes, I
-did too, just once! I let myself think ONCE, 'What if I should come out
+did too, just once! I let myself think _once_, 'What if I should come out
 first?' quakingly, you know, for it seemed so vain and presumptuous to
 think I could lead the Island. Excuse me a minute, Diana. I must run
 right out to the field to tell Matthew. Then we'll go up the road and
@@ -9303,7 +9303,7 @@ beautiful as maidenhood might desire.
 CHAPTER XXXIII. The Hotel Concert
 
 
-"Put on your white organdy, by all means, Anne," advised Diana
+|PUT on your white organdy, by all means, Anne," advised Diana
 decidedly.
 
 They were together in the east gable chamber; outside it was only
@@ -9425,19 +9425,17 @@ of the wheel, Anne, and put your warm jacket on."
 Then Marilla stalked downstairs, thinking proudly how sweet Anne looked,
 with that
 
-
      "One moonbeam from the forehead to the crown"
-
 
 and regretting that she could not go to the concert herself to hear her
 girl recite.
 
-"I wonder if it IS too damp for my dress," said Anne anxiously.
+"I wonder if it _is_ too damp for my dress," said Anne anxiously.
 
 "Not a bit of it," said Diana, pulling up the window blind. "It's a
 perfect night, and there won't be any dew. Look at the moonlight."
 
-"I'm so glad my window looks east into the sunrising," said Anne, going
+"I'm so glad my window looks east into the sun rising," said Anne, going
 over to Diana. "It's so splendid to see the morning coming up over those
 long hills and glowing through those sharp fir tops. It's new every
 morning, and I feel as if I washed my very soul in that bath of earliest
@@ -9545,8 +9543,8 @@ against a background of palms in particular. Josie Pye, whom he had
 driven over, sat beside him, and her face certainly was both triumphant
 and taunting. But Anne did not see Josie, and would not have cared if
 she had. She drew a long breath and flung her head up proudly, courage
-and determination tingling over her like an electric shock. She WOULD
-NOT fail before Gilbert Blythe--he should never be able to laugh at her,
+and determination tingling over her like an electric shock. She _would
+not_ fail before Gilbert Blythe--he should never be able to laugh at her,
 never, never! Her fright and nervousness vanished; and she began her
 recitation, her clear, sweet voice reaching to the farthest corner of
 the room without a tremor or a break. Self-possession was fully restored
@@ -9615,10 +9613,10 @@ Anne. But what does Titian hair mean?"
 "Being interpreted it means plain red, I guess," laughed Anne. "Titian
 was a very famous artist who liked to paint red-haired women."
 
-"DID you see all the diamonds those ladies wore?" sighed Jane. "They
+"_Did_ you see all the diamonds those ladies wore?" sighed Jane. "They
 were simply dazzling. Wouldn't you just love to be rich, girls?"
 
-"We ARE rich," said Anne staunchly. "Why, we have sixteen years to our
+"We _are_ rich," said Anne staunchly. "Why, we have sixteen years to our
 credit, and we're happy as queens, and we've all got imaginations, more
 or less. Look at that sea, girls--all silver and shadow and vision of
 things not seen. We couldn't enjoy its loveliness any more if we had
@@ -9628,10 +9626,10 @@ and wear a sour look all your life, as if you'd been born turning up
 your nose at the world? Or the pink lady, kind and nice as she is, so
 stout and short that you'd really no figure at all? Or even Mrs. Evans,
 with that sad, sad look in her eyes? She must have been dreadfully
-unhappy sometime to have such a look. You KNOW you wouldn't, Jane
+unhappy sometime to have such a look. You _know_ you wouldn't, Jane
 Andrews!"
 
-"I DON'T know--exactly," said Jane unconvinced. "I think diamonds would
+"I _don't_ know--exactly," said Jane unconvinced. "I think diamonds would
 comfort a person for a good deal."
 
 "Well, I don't want to be anyone but myself, even if I go uncomforted by
@@ -9645,7 +9643,7 @@ much love with them as ever went with Madame the Pink Lady's jewels."
 CHAPTER XXXIV. A Queen's Girl
 
 
-The next three weeks were busy ones at Green Gables, for Anne was
+|THE next three weeks were busy ones at Green Gables, for Anne was
 getting ready to go to Queen's, and there was much sewing to be done,
 and many things to be talked over and arranged. Anne's outfit was
 ample and pretty, for Matthew saw to that, and Marilla for once made
@@ -9692,7 +9690,7 @@ all over."
 "Marilla!" Anne sat down on Marilla's gingham lap, took Marilla's lined
 face between her hands, and looked gravely and tenderly into Marilla's
 eyes. "I'm not a bit changed--not really. I'm only just pruned down and
-branched out. The real ME--back here--is just the same. It won't make a
+branched out. The real _me_--back here--is just the same. It won't make a
 bit of difference where I go or how much I change outwardly; at heart I
 shall always be your little Anne, who will love you and Matthew and dear
 Green Gables more and better every day of her life."
@@ -9712,7 +9710,7 @@ agitatedly across the yard to the gate under the poplars.
 "I guess my putting in my oar occasional never did much harm after all.
 She's smart and pretty, and loving, too, which is better than all the
 rest. She's been a blessing to us, and there never was a luckier mistake
-than what Mrs. Spencer made--if it WAS luck. I don't believe it was any
+than what Mrs. Spencer made--if it _was_ luck. I don't believe it was any
 such thing. It was Providence, because the Almighty saw we needed her, I
 reckon."
 
@@ -9796,14 +9794,14 @@ wires shutting out the sky, the tramp of alien feet, and a thousand
 lights gleaming on stranger faces. She knew that she was going to cry,
 and fought against it.
 
-"I WON'T cry. It's silly--and weak--there's the third tear splashing
+"I _won't_ cry. It's silly--and weak--there's the third tear splashing
 down by my nose. There are more coming! I must think of something funny
 to stop them. But there's nothing funny except what is connected with
 Avonlea, and that only makes things worse--four--five--I'm going home
 next Friday, but that seems a hundred years away. Oh, Matthew is nearly
 home by now--and Marilla is at the gate, looking down the lane for
 him--six--seven--eight--oh, there's no use in counting them! They're
-coming in a flood presently. I can't cheer up--I don't WANT to cheer up.
+coming in a flood presently. I can't cheer up--I don't _want_ to cheer up.
 It's nicer to be miserable!"
 
 The flood of tears would have come, no doubt, had not Josie Pye appeared
@@ -9818,10 +9816,10 @@ you're homesick--some people have so little self-control in that
 respect. I've no intention of being homesick, I can tell you. Town's too
 jolly after that poky old Avonlea. I wonder how I ever existed there so
 long. You shouldn't cry, Anne; it isn't becoming, for your nose and eyes
-get red, and then you seem ALL red. I'd a perfectly scrumptious time in
+get red, and then you seem _all_ red. I'd a perfectly scrumptious time in
 the Academy today. Our French professor is simply a duck. His moustache
 would give you kerwollowps of the heart. Have you anything eatable
-around, Anne? I'm literally starving. Ah, I guessed likely Marilla'd
+around, Anne? I'm literally starving. Ah, I guessed likely Marilla 'd
 load you up with cake. That's why I called round. Otherwise I'd have
 gone to the park to hear the band play with Frank Stockley. He boards
 same place as I do, and he's a sport. He noticed you in class today, and
@@ -9839,7 +9837,7 @@ had to subside into comparative harmlessness.
 the morning. I ought to be home studying my Virgil--that horrid old
 professor gave us twenty lines to start in on tomorrow. But I simply
 couldn't settle down to study tonight. Anne, methinks I see the
-traces of tears. If you've been crying DO own up. It will restore my
+traces of tears. If you've been crying _do_ own up. It will restore my
 self-respect, for I was shedding tears freely before Ruby came along. I
 don't mind being a goose so much if somebody else is goosey, too. Cake?
 You'll give me a teeny piece, won't you? Thank you. It has the real
@@ -9888,7 +9886,7 @@ make life so interesting."
 CHAPTER XXXV. The Winter at Queen's
 
 
-Anne's homesickness wore off, greatly helped in the wearing by her
+|ANNE'S homesickness wore off, greatly helped in the wearing by her
 weekend visits home. As long as the open weather lasted the Avonlea
 students went out to Carmody on the new branch railway every Friday
 night. Diana and several other Avonlea young folks were generally on
@@ -10012,7 +10010,7 @@ them--as the girls truly thought theirs did--you could not regard them
 philosophically.
 
 "I've lost seven pounds in the last two weeks," sighed Jane. "It's no
-use to say don't worry. I WILL worry. Worrying helps you some--it
+use to say don't worry. I _will_ worry. Worrying helps you some--it
 seems as if you were doing something when you're worrying. It would be
 dreadful if I failed to get my license after going to Queen's all winter
 and spending so much money."
@@ -10051,7 +10049,7 @@ promise to be woven into an immortal chaplet.
 CHAPTER XXXVI. The Glory and the Dream
 
 
-On the morning when the final results of all the examinations were to be
+|ON the morning when the final results of all the examinations were to be
 posted on the bulletin board at Queen's, Anne and Jane walked down the
 street together. Jane was smiling and happy; examinations were over
 and she was comfortably sure she had made a pass at least; further
@@ -10073,7 +10071,7 @@ look at it before everybody. I haven't the moral courage. I'm going
 straight to the girls' dressing room. You must read the announcements
 and then come and tell me, Jane. And I implore you in the name of our
 old friendship to do it as quickly as possible. If I have failed just
-say so, without trying to break it gently; and whatever you do DON'T
+say so, without trying to break it gently; and whatever you do _don't_
 sympathize with me. Promise me this, Jane."
 
 Jane promised solemnly; but, as it happened, there was no necessity for
@@ -10134,12 +10132,12 @@ about her and drew a long breath of happiness.
 "Oh, Diana, it's so good to be back again. It's so good to see those
 pointed firs coming out against the pink sky--and that white orchard and
 the old Snow Queen. Isn't the breath of the mint delicious? And that tea
-rose--why, it's a song and a hope and a prayer all in one. And it's GOOD
+rose--why, it's a song and a hope and a prayer all in one. And it's _good_
 to see you again, Diana!"
 
 "I thought you liked that Stella Maynard better than me," said
 Diana reproachfully. "Josie Pye told me you did. Josie said you were
-INFATUATED with her."
+_infatuated_ with her."
 
 Anne laughed and pelted Diana with the faded "June lilies" of her
 bouquet.
@@ -10268,7 +10266,7 @@ been laid upon it.
 CHAPTER XXXVII. The Reaper Whose Name Is Death
 
 
-"Matthew--Matthew--what is the matter? Matthew, are you sick?"
+|MATTHEW--Matthew--what is the matter? Matthew, are you sick?"
 
 It was Marilla who spoke, alarm in every jerky word. Anne came through
 the hall, her hands full of white narcissus,--it was long before Anne
@@ -10388,7 +10386,7 @@ usual placidity and even at Green Gables affairs slipped into their old
 groove and work was done and duties fulfilled with regularity as before,
 although always with the aching sense of "loss in all familiar things."
 Anne, new to grief, thought it almost sad that it could be so--that
-they COULD go on in the old way without Matthew. She felt something like
+they _could_ go on in the old way without Matthew. She felt something like
 shame and remorse when she discovered that the sunrises behind the firs
 and the pale pink buds opening in the garden gave her the old inrush of
 gladness when she saw them--that Diana's visits were pleasant to her
@@ -10459,7 +10457,7 @@ you mind the time you dyed your hair?"
 "Yes, indeed. I shall never forget it," smiled Anne, touching the heavy
 braid of hair that was wound about her shapely head. "I laugh a little
 now sometimes when I think what a worry my hair used to be to me--but I
-don't laugh MUCH, because it was a very real trouble then. I did suffer
+don't laugh _much_, because it was a very real trouble then. I did suffer
 terribly over my hair and my freckles. My freckles are really gone; and
 people are nice enough to tell me my hair is auburn now--all but Josie
 Pye. She informed me yesterday that she really thought it was redder
@@ -10467,7 +10465,7 @@ than ever, or at least my black dress made it look redder, and she asked
 me if people who had red hair ever got used to having it. Marilla, I've
 almost decided to give up trying to like Josie Pye. I've made what I
 would once have called a heroic effort to like her, but Josie Pye won't
-BE liked."
+_be_ liked."
 
 "Josie is a Pye," said Marilla sharply, "so she can't help being
 disagreeable. I suppose people of that kind serve some useful purpose in
@@ -10511,7 +10509,7 @@ came back to me when I saw Gilbert last Sunday."
 CHAPTER XXXVIII. The Bend in the road
 
 
-Marilla went to town the next day and returned in the evening. Anne had
+|MARILLA went to town the next day and returned in the evening. Anne had
 gone over to Orchard Slope with Diana and came back to find Marilla in
 the kitchen, sitting by the table with her head leaning on her hand.
 Something in her dejected attitude struck a chill to Anne's heart. She
@@ -10532,10 +10530,10 @@ But if I don't he says I'll certainly be stone-blind in six months.
 Blind! Anne, just think of it!"
 
 For a minute Anne, after her first quick exclamation of dismay, was
-silent. It seemed to her that she could NOT speak. Then she said
+silent. It seemed to her that she could _not_ speak. Then she said
 bravely, but with a catch in her voice:
 
-"Marilla, DON'T think of it. You know he has given you hope. If you are
+"Marilla, _don't_ think of it. You know he has given you hope. If you are
 careful you won't lose your sight altogether; and if his glasses cure
 your headaches it will be a great thing."
 
@@ -10624,8 +10622,8 @@ can't let you sacrifice yourself so for me. It would be terrible."
 
 "Nonsense!" Anne laughed merrily. "There is no sacrifice. Nothing could
 be worse than giving up Green Gables--nothing could hurt me more. We
-must keep the dear old place. My mind is quite made up, Marilla. I'm NOT
-going to Redmond; and I AM going to stay here and teach. Don't you worry
+must keep the dear old place. My mind is quite made up, Marilla. I'm _not_
+going to Redmond; and I _am_ going to stay here and teach. Don't you worry
 about me a bit."
 
 "But your ambitions--and--"
@@ -10738,7 +10736,7 @@ Marilla, with a momentary return of her old crispness.
 But crispness was no longer Marilla's distinguishing characteristic. As
 Mrs. Lynde told her Thomas that night.
 
-"Marilla Cuthbert has got MELLOW. That's what."
+"Marilla Cuthbert has got _mellow_. That's what."
 
 Anne went to the little Avonlea graveyard the next evening to put fresh
 flowers on Matthew's grave and water the Scotch rosebush. She lingered
@@ -10819,7 +10817,11 @@ softly.
 
 
 
-End of Project Gutenberg's Anne Of Green Gables, by Lucy Maud Montgomery
+
+
+
+
+End of Project Gutenberg's Anne of Green Gables, by Lucy Maud Montgomery
 
 *** END OF THIS PROJECT GUTENBERG EBOOK ANNE OF GREEN GABLES ***
 
@@ -10827,31 +10829,29 @@ End of Project Gutenberg's Anne Of Green Gables, by Lucy Maud Montgomery
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/4/45/
 
-Produced by Charles Keller
+Produced by David Widger and Charles Keller
 
-Updated editions will replace the previous one--the old editions
-will be renamed.
+Updated editions will replace the previous one--the old editions will
+be renamed.
 
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
 
-
-
-*** START: FULL LICENSE ***
+START: FULL LICENSE
 
 THE FULL PROJECT GUTENBERG LICENSE
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
@@ -10859,288 +10859,291 @@ PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 To protect the Project Gutenberg-tm mission of promoting the free
 distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
 
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
 
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
+1.A. By reading or using any part of this Project Gutenberg-tm
 electronic work, you indicate that you have read, understand, agree to
 and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
 
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+1.B. "Project Gutenberg" is a registered trademark. It may only be
 used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
+agree to be bound by the terms of this agreement. There are a few
 things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
 
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
 
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
 
-1.E.  Unless you have removed all references to Project Gutenberg:
+1.E. Unless you have removed all references to Project Gutenberg:
 
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
 
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
 with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
 
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
 License terms from this work, or any files containing a part of this
 work or any other work associated with Project Gutenberg-tm.
 
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
+1.E.5. Do not copy, display, perform, distribute or redistribute this
 electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
 
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
 
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
+1.E.7. Do not charge a fee for access to, viewing, displaying,
 performing, copying or distributing any Project Gutenberg-tm works
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
 
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
 
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
 
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
 
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
 
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
 
 1.F.
 
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
+1.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
 
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
 Gutenberg-tm electronic work under this agreement, disclaim all
 liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
 LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
 TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
 LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
 INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 DAMAGE.
 
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 defect in this electronic work within 90 days of receiving it, you can
 receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
 
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
 
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
 
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
+Section 2. Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
+assistance they need are critical to reaching Project Gutenberg-tm's
 goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
+remain freely available for generations to come. In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
 
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
 
 For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
 
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
 
-Section 4.  Information about Donations to the Project Gutenberg
+Section 4. Information about Donations to the Project Gutenberg
 Literary Archive Foundation
 
 Project Gutenberg-tm depends upon and cannot survive without wide
 spread public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
 freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
+array of equipment including outdated equipment. Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 status with the IRS.
 
 The Foundation is committed to complying with the laws regulating
 charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
+States. Compliance requirements are not uniform and it takes a
 considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
@@ -11149,34 +11152,32 @@ approach us with offers to donate.
 
 International donations are gratefully accepted, but we cannot make
 any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
+outside the United States. U.S. laws alone swamp our small staff.
 
 Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
 
+Section 5. General Information About Project Gutenberg-tm electronic works.
 
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
 
 Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
 
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
 
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+
